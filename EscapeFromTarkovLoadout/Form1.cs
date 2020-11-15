@@ -12,6 +12,7 @@ namespace EscapeFromTarkovLoadout
 {
     public partial class Form1 : Form
     {
+        Information info = new Information();
         Maps maps = new Maps();
         Weapons weapons = new Weapons();
         Armor armor = new Armor();
@@ -54,6 +55,19 @@ namespace EscapeFromTarkovLoadout
                 // Getting map
                 maps.GetRandomMap();
                 pBoxMap.BackgroundImage = maps.GetMapImage();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void pBoxInfo_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                // Information about this application shown in a messagebox when clicking at the "info" picture
+                MessageBox.Show(info.GetTextForInfo(), info.GetTitleForInfo());
             }
             catch (Exception ex)
             {
