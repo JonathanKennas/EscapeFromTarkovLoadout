@@ -28,19 +28,20 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnRandomize = new System.Windows.Forms.Button();
+            this.btnCreateLoadout = new System.Windows.Forms.Button();
             this.pBoxMap = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxMap)).BeginInit();
             this.SuspendLayout();
             // 
-            // btnRandomize
+            // btnCreateLoadout
             // 
-            this.btnRandomize.Location = new System.Drawing.Point(436, 553);
-            this.btnRandomize.Name = "btnRandomize";
-            this.btnRandomize.Size = new System.Drawing.Size(140, 153);
-            this.btnRandomize.TabIndex = 1;
-            this.btnRandomize.Text = "Create Loadout";
-            this.btnRandomize.UseVisualStyleBackColor = true;
+            this.btnCreateLoadout.Location = new System.Drawing.Point(436, 553);
+            this.btnCreateLoadout.Name = "btnCreateLoadout";
+            this.btnCreateLoadout.Size = new System.Drawing.Size(140, 153);
+            this.btnCreateLoadout.TabIndex = 1;
+            this.btnCreateLoadout.Text = "Create Loadout";
+            this.btnCreateLoadout.UseVisualStyleBackColor = true;
+            this.btnCreateLoadout.Click += new System.EventHandler(this.btnCreateLoadout_Click);
             // 
             // pBoxMap
             // 
@@ -55,11 +56,12 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.Control;
             this.BackgroundImage = global::EscapeFromTarkovLoadout.Properties.Resources.EscapeFromTarkovBackgroundCharacter;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1171, 729);
             this.Controls.Add(this.pBoxMap);
-            this.Controls.Add(this.btnRandomize);
+            this.Controls.Add(this.btnCreateLoadout);
             this.DoubleBuffered = true;
             this.Name = "Form1";
             this.Text = "Escape From Tarkov Loadout";
@@ -69,7 +71,7 @@
         }
 
         #endregion
-        private System.Windows.Forms.Button btnRandomize;
+        private System.Windows.Forms.Button btnCreateLoadout;
         private System.Windows.Forms.PictureBox pBoxMap;
     }
 }
