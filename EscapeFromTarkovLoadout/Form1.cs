@@ -29,31 +29,31 @@ namespace EscapeFromTarkovLoadout
             try
             {
                 // Getting weapon
-                weapons.GetRandomWeapon();
+                //weapons.GetRandomWeapon();
                 // Add image
 
                 // Getting headwear
-                headwear.GetRandomHeadwear();
+                //headwear.GetRandomHeadwear();
                 // Add image
 
                 // Getting rig
-                rigs.GetRandomRig();
+                //rigs.GetRandomRig();
                 // Add image
 
                 // Getting the generated rig-number and passes it to armor for control
-                armor.GetRigNumber(rigs.rigNumber);
+                //armor.GetRigNumber(rigs.rigNumber);
 
                 // Getting armor
-                armor.GetRandomArmor();
+                //armor.GetRandomArmor();
                 // Add image
 
                 // Getting backpack
-                backpacks.GetRandomBackpack();
+                //backpacks.GetRandomBackpack();
                 // Add image
 
                 // Getting map
                 maps.GetRandomMap();
-                // Add image
+                pBoxMap.BackgroundImage = maps.GetMapImage();
             }
             catch (Exception ex)
             {

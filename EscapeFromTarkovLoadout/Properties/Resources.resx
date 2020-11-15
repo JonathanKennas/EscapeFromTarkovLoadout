@@ -121,4 +121,25 @@
   <data name="EscapeFromTarkovBackgroundCharacter" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\EscapeFromTarkovBackgroundCharacter.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Map_Customs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Map_Customs.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Map_Factory" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Map_Factory.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Map_Interchange" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Map_Interchange.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Map_Reserve" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Map_Reserve.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Map_Shoreline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Map_Shoreline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Map_TheLab" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Map_TheLab.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Map_Woods" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Map_Woods.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

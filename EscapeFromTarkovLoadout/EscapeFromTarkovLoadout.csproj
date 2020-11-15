@@ -89,5 +89,26 @@
   <ItemGroup>
     <None Include="Resources\EscapeFromTarkovBackgroundCharacter.PNG" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Map_Customs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Map_Factory.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Map_Interchange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Map_Reserve.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Map_Shoreline.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Map_TheLab.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Map_Woods.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

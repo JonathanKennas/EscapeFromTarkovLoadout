@@ -38,32 +38,31 @@ namespace EscapeFromTarkovLoadout
 
             if (map == 1) // Customs
             {
-                //mapImage = Resources
-                mapImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Maps\Customs.png");
+                mapImage = Resources.Map_Customs;
             }
             else if (map == 2) // Factory
             {
-                mapImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Maps\Factory.png");
+                mapImage = Resources.Map_Factory;
             }
             else if (map == 3) // Interchange
             {
-                mapImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Maps\Interchange.png");
+                mapImage = Resources.Map_Interchange;
             }
             else if (map == 4) // Reserve
             {
-                mapImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Maps\Reserve.png");
+                mapImage = Resources.Map_Reserve;
             }
             else if (map == 5) // Shoreline
             {
-                mapImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Maps\Shoreline.png");
+                mapImage = Resources.Map_Shoreline;
             }
             else if (map == 6) // The Lab
             {
-                mapImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Maps\TheLab.png");
+                mapImage = Resources.Map_TheLab;
             }
             else if (map == 7) // Woods
             {
-                mapImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Maps\Woods.png");
+                mapImage = Resources.Map_Woods;
             }
             else mapImage = null;
             return mapImage;
