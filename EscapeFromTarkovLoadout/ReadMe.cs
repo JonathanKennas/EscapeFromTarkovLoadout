@@ -36,22 +36,28 @@ namespace EscapeFromTarkovLoadout
         // Weapons:
         // - Remember to add image
         // - Control if it's a pistol or not (controling if the weapon is on the sling or holster)
+        // Link to all weapons: https://escapefromtarkov.gamepedia.com/Weapons
 
         // Armor:
         // - Remember to add image
+        // Link to all armor: https://escapefromtarkov.gamepedia.com/Armor_vests
 
         // Headwear:
         // - Remember to add image
+        // Link to all headwear: https://escapefromtarkov.gamepedia.com/Headwear
 
         // Rigs:
         // - Remember to add image
         // - Control if the rig is compatible with armor
         // - Add to controler for armor if it's armored
+        // Link to all rigs: https://escapefromtarkov.gamepedia.com/Chest_rigs#Armored
 
         // Backpacks:
         // - Remember to add image
+        // Link to all backpacks: https://escapefromtarkov.gamepedia.com/Backpacks
 
         // Maps:
         // - Remember to add image
+        // Link to all maps: https://escapefromtarkov.gamepedia.com/Map_of_Tarkov
     }
 }
