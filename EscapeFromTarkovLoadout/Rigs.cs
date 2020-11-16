@@ -42,111 +42,110 @@ namespace EscapeFromTarkovLoadout
             // Armored rigs START
             if (rig == 1) // 6B5-16 Zh -86 "Uley" armored rig
             {
-                //rigImage = Resources
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Armored\6B5-16_armored_rig.png");
+                rigImage = Resources.Rig_Armored_6B5_16_Zh_86;
             }
             else if (rig == 2) // 6B3TM-01M armored rig
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Armored\6B3TM-01M.png");
+                rigImage = Resources.Rig_Armored_6B3TM_01M;
             }
             else if (rig == 3) // 6B5-15 Zh -86 "Uley" armored rig
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Armored\6B5-15.png");
+                rigImage = Resources.Rig_Armored_6B5_15_Zh;
             }
             else if (rig == 4) // ANA Tactical M2 armored rig
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Armored\ANA-M2.png");
+                rigImage = Resources.Rig_Armored_ANA_Tactical_M2;
             }
             else if (rig == 5) // ANA Tactical M1 armored rig
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Armored\ANA-M1.png");
+                rigImage = Resources.Rig_Armored_ANA_Tactical_M1;
             }
             else if (rig == 6) // Crye Precision AVS platecarrier
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Armored\AVS.png");
+                rigImage = Resources.Rig_Armored_Crye_Precission_AVS;
             }
             else if (rig == 7) // Ars Arma A18 Skanda plate carrier
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Armored\ARS-A18.png");
+                rigImage = Resources.Rig_Armored_Ars_Arma_A18;
             }
             else if (rig == 8) // Wartech TV-110 plate carrier
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Armored\Wartech_TV-110.png");
+                rigImage = Resources.Rig_Armored_Wartech_TV_110;
             }
             else if (rig == 9) // 5.11 Tactec plate carrier
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Armored\Tactec-5.11.png");
+                rigImage = Resources.Rig_Armored_511_TacTec;
             }
             else if (rig == 10) // Ars Arma CPC MOD.2 plate carrier
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Armored\ARS-AACPC-MOD.2.png");
+                rigImage = Resources.Rig_Armored_Ars_Arma_CPC_MOD_2;
             }
             // Armored rigs END
 
             // Unarmored rigs START
             else if (rig == 11) // Scav Vest
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Unarmored\Scav_Vest.png");
+                rigImage = Resources.Rig_Scav_vest;
             }
             else if (rig == 12) // Spiritus Systems Bank Robber Chest Rig
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Unarmored\Bank_Robber.png");
+                rigImage = Resources.Rig_Spiritus_System_Bank_Robber;
             }
             else if (rig == 13) // SOE Micro Rig
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Unarmored\SOE-micro.png");
+                rigImage = Resources.Rig_SOE_Micro_rig;
             }
             else if (rig == 14) // Wartech gear rig (TV-109, TV-106)
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Unarmored\Wartech.png");
+                rigImage = Resources.Rig_Wartech_TV_109_TV_106;
             }
             else if (rig == 15) // UMTBS 6sh112 Scout-Sniper
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Unarmored\Scout_Sniper.png");
+                rigImage = Resources.Rig_UMTBS_6sh112_Scout_sniper;
             }
             else if (rig == 16) // Splav Tarzan M22 Rig
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Unarmored\Tarzan.png");
+                rigImage = Resources.Rig_Splav_Tarzan_M22;
             }
             else if (rig == 17) // Haley Strategic D3CRX Chest Harness
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Unarmored\D3CRX.png");
+                rigImage = Resources.Rig_Haley_Strategic_D3CRX;
             }
             else if (rig == 18) // Triton M43-A Chest Harness
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Unarmored\Triton_M43-A.png");
+                rigImage = Resources.Rig_Triton_M43_A;
             }
             else if (rig == 19) // Blackhawk! Commando Chest Harness
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Unarmored\Blackhawk!_commando.gif");
+                rigImage = Resources.Rig_Blackhawk_Commando;
             }
             else if (rig == 20) // Direct Action Thunderbolt compact chest rig
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Unarmored\Direct_Action_Thunderbolt.png");
+                rigImage = Resources.Rig_Direct_Action_Thunderbolt;
             }
             else if (rig == 21) // LBT-1961A Load Bearing Chest Vest
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Unarmored\LBT_1961.png");
+                rigImage = Resources.Rig_LBT_1961A_Load_Bearing;
             }
             else if (rig == 22) // BlackRock chest rig
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Unarmored\Blackrock.png");
+                rigImage = Resources.Rig_BlackRock;
             }
             else if (rig == 23) // Wartech MK3 chest rig (TV-104)
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Unarmored\Wartech-Mk3.png");
+                rigImage = Resources.Rig_Wartech_MK3_TV_104;
             }
             else if (rig == 24) // ANA Tactical Alpha chest rig
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Unarmored\ANA-Alpha.png");
+                rigImage = Resources.Rig_ANA_Tactical_Alpha;
             }
             else if (rig == 25) // Velocity Systems Multi-Purpose Patrol Vest
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Unarmored\Velocity-MPPV.png");
+                rigImage = Resources.Rig_Velocity_MPPV;
             }
             else if (rig == 26) // Belt-A + Belt-B gear rig
             {
-                rigImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Rigs\Unarmored\Belt-A_Belt-B.png");
+                rigImage = Resources.Rig_Belt_A_Belt_B;
             }
             // Unarmored rigs END
             else rigImage = null;

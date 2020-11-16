@@ -149,5 +149,265 @@ namespace EscapeFromTarkovLoadout.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_ANA_Tactical_Alpha {
+            get {
+                object obj = ResourceManager.GetObject("Rig_ANA_Tactical_Alpha", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Armored_511_TacTec {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Armored_511_TacTec", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Armored_6B3TM_01M {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Armored_6B3TM-01M", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Armored_6B5_15_Zh {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Armored_6B5-15-Zh", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Armored_6B5_16_Zh_86 {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Armored_6B5-16-Zh-86", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Armored_ANA_Tactical_M1 {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Armored_ANA_Tactical_M1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Armored_ANA_Tactical_M2 {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Armored_ANA_Tactical_M2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Armored_Ars_Arma_A18 {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Armored_Ars_Arma_A18", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Armored_Ars_Arma_CPC_MOD_2 {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Armored_Ars_Arma_CPC_MOD_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Armored_Crye_Precission_AVS {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Armored_Crye_Precission_AVS", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Armored_Wartech_TV_110 {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Armored_Wartech_TV-110", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Belt_A_Belt_B {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Belt-A_Belt-B", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Blackhawk_Commando {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Blackhawk_Commando", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_BlackRock {
+            get {
+                object obj = ResourceManager.GetObject("Rig_BlackRock", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Direct_Action_Thunderbolt {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Direct_Action_Thunderbolt", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Haley_Strategic_D3CRX {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Haley_Strategic_D3CRX", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_LBT_1961A_Load_Bearing {
+            get {
+                object obj = ResourceManager.GetObject("Rig_LBT-1961A_Load_Bearing", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Scav_vest {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Scav_vest", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_SOE_Micro_rig {
+            get {
+                object obj = ResourceManager.GetObject("Rig_SOE_Micro_rig", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Spiritus_System_Bank_Robber {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Spiritus_System_Bank_Robber", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Splav_Tarzan_M22 {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Splav_Tarzan_M22", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Triton_M43_A {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Triton_M43-A", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_UMTBS_6sh112_Scout_sniper {
+            get {
+                object obj = ResourceManager.GetObject("Rig_UMTBS_6sh112_Scout-sniper", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Velocity_MPPV {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Velocity_MPPV", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Wartech_MK3_TV_104 {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Wartech_MK3_TV-104", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rig_Wartech_TV_109_TV_106 {
+            get {
+                object obj = ResourceManager.GetObject("Rig_Wartech_TV-109_TV-106", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

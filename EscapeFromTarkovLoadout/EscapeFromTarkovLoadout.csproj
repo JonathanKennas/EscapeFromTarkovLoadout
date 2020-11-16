@@ -142,5 +142,83 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_ANA_Tactical_Alpha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Armored_6B3TM-01M.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Armored_6B5-15-Zh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Armored_6B5-16-Zh-86.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Armored_511_TacTec.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Armored_ANA_Tactical_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Armored_ANA_Tactical_M2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Armored_Ars_Arma_A18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Armored_Ars_Arma_CPC_MOD_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Armored_Crye_Precission_AVS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Armored_Wartech_TV-110.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Belt-A_Belt-B.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Blackhawk_Commando.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_BlackRock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Direct_Action_Thunderbolt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Haley_Strategic_D3CRX.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_LBT-1961A_Load_Bearing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Scav_vest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_SOE_Micro_rig.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Spiritus_System_Bank_Robber.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Splav_Tarzan_M22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Triton_M43-A.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_UMTBS_6sh112_Scout-sniper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Wartech_MK3_TV-104.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Wartech_TV-109_TV-106.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rig_Velocity_MPPV.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

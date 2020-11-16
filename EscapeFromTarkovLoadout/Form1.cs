@@ -38,8 +38,8 @@ namespace EscapeFromTarkovLoadout
                 // Add image
 
                 // Getting rig
-                //rigs.GetRandomRig();
-                // Add image
+                rigs.GetRandomRig();
+                pBoxRig.BackgroundImage = rigs.GetRigImage();
 
                 // Getting the generated rig-number and passes it to armor for control
                 //armor.GetRigNumber(rigs.rigNumber);

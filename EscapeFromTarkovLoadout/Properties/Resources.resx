@@ -130,6 +130,9 @@
   <data name="Map_Shoreline" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Map_Shoreline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Info_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Info_logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Map_Factory" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Map_Factory.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -142,7 +145,82 @@
   <data name="Map_Reserve" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Map_Reserve.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Info_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Info_logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Rig_ANA_Tactical_Alpha" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_ANA_Tactical_Alpha.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Armored_6B3TM-01M" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_6B3TM-01M.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Armored_6B5-15-Zh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_6B5-15-Zh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Armored_6B5-16-Zh-86" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_6B5-16-Zh-86.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Armored_511_TacTec" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_511_TacTec.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Armored_ANA_Tactical_M1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_ANA_Tactical_M1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Armored_ANA_Tactical_M2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_ANA_Tactical_M2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Armored_Ars_Arma_A18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_Ars_Arma_A18.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Armored_Ars_Arma_CPC_MOD_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_Ars_Arma_CPC_MOD_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Armored_Crye_Precission_AVS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_Crye_Precission_AVS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Armored_Wartech_TV-110" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_Wartech_TV-110.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Belt-A_Belt-B" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Belt-A_Belt-B.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Blackhawk_Commando" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Blackhawk_Commando.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_BlackRock" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_BlackRock.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Direct_Action_Thunderbolt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Direct_Action_Thunderbolt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Haley_Strategic_D3CRX" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Haley_Strategic_D3CRX.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_LBT-1961A_Load_Bearing" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_LBT-1961A_Load_Bearing.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Scav_vest" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Scav_vest.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_SOE_Micro_rig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_SOE_Micro_rig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Spiritus_System_Bank_Robber" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Spiritus_System_Bank_Robber.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Splav_Tarzan_M22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Splav_Tarzan_M22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Triton_M43-A" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Triton_M43-A.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_UMTBS_6sh112_Scout-sniper" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_UMTBS_6sh112_Scout-sniper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Wartech_MK3_TV-104" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Wartech_MK3_TV-104.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Wartech_TV-109_TV-106" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Wartech_TV-109_TV-106.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Velocity_MPPV" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Velocity_MPPV.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
