@@ -292,5 +292,8 @@
   <ItemGroup>
     <None Include="Resources\Backpack_VKBO_Army_bag.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EscapeFromTarkovBackgroundInfo.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

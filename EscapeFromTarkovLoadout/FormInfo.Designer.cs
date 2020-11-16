@@ -37,13 +37,14 @@
             this.linkLblBackpacks = new System.Windows.Forms.LinkLabel();
             this.linkLblMaps = new System.Windows.Forms.LinkLabel();
             this.lblEnjoy = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
+            this.lblPayPal = new System.Windows.Forms.Label();
             this.linkLblLinkPayPal = new System.Windows.Forms.LinkLabel();
             this.SuspendLayout();
             // 
             // lblInfo
             // 
             this.lblInfo.AutoSize = true;
+            this.lblInfo.BackColor = System.Drawing.Color.Transparent;
             this.lblInfo.Font = new System.Drawing.Font("Poor Richard", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblInfo.Location = new System.Drawing.Point(13, 24);
             this.lblInfo.Name = "lblInfo";
@@ -54,6 +55,7 @@
             // linkLblWeapons
             // 
             this.linkLblWeapons.AutoSize = true;
+            this.linkLblWeapons.BackColor = System.Drawing.Color.Transparent;
             this.linkLblWeapons.Font = new System.Drawing.Font("Poor Richard", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLblWeapons.Location = new System.Drawing.Point(18, 385);
             this.linkLblWeapons.Name = "linkLblWeapons";
@@ -66,6 +68,7 @@
             // lblTitleForLinks
             // 
             this.lblTitleForLinks.AutoSize = true;
+            this.lblTitleForLinks.BackColor = System.Drawing.Color.Transparent;
             this.lblTitleForLinks.Font = new System.Drawing.Font("Poor Richard", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitleForLinks.Location = new System.Drawing.Point(13, 366);
             this.lblTitleForLinks.Name = "lblTitleForLinks";
@@ -76,6 +79,7 @@
             // linkLblArmor
             // 
             this.linkLblArmor.AutoSize = true;
+            this.linkLblArmor.BackColor = System.Drawing.Color.Transparent;
             this.linkLblArmor.Font = new System.Drawing.Font("Poor Richard", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLblArmor.Location = new System.Drawing.Point(18, 404);
             this.linkLblArmor.Name = "linkLblArmor";
@@ -88,6 +92,7 @@
             // linkLblHeadwear
             // 
             this.linkLblHeadwear.AutoSize = true;
+            this.linkLblHeadwear.BackColor = System.Drawing.Color.Transparent;
             this.linkLblHeadwear.Font = new System.Drawing.Font("Poor Richard", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLblHeadwear.Location = new System.Drawing.Point(18, 423);
             this.linkLblHeadwear.Name = "linkLblHeadwear";
@@ -100,6 +105,7 @@
             // linkLblRigs
             // 
             this.linkLblRigs.AutoSize = true;
+            this.linkLblRigs.BackColor = System.Drawing.Color.Transparent;
             this.linkLblRigs.Font = new System.Drawing.Font("Poor Richard", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLblRigs.Location = new System.Drawing.Point(18, 442);
             this.linkLblRigs.Name = "linkLblRigs";
@@ -112,6 +118,7 @@
             // linkLblBackpacks
             // 
             this.linkLblBackpacks.AutoSize = true;
+            this.linkLblBackpacks.BackColor = System.Drawing.Color.Transparent;
             this.linkLblBackpacks.Font = new System.Drawing.Font("Poor Richard", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLblBackpacks.Location = new System.Drawing.Point(18, 461);
             this.linkLblBackpacks.Name = "linkLblBackpacks";
@@ -124,6 +131,7 @@
             // linkLblMaps
             // 
             this.linkLblMaps.AutoSize = true;
+            this.linkLblMaps.BackColor = System.Drawing.Color.Transparent;
             this.linkLblMaps.Font = new System.Drawing.Font("Poor Richard", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLblMaps.Location = new System.Drawing.Point(18, 480);
             this.linkLblMaps.Name = "linkLblMaps";
@@ -136,6 +144,7 @@
             // lblEnjoy
             // 
             this.lblEnjoy.AutoSize = true;
+            this.lblEnjoy.BackColor = System.Drawing.Color.Transparent;
             this.lblEnjoy.Font = new System.Drawing.Font("Poor Richard", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblEnjoy.Location = new System.Drawing.Point(13, 520);
             this.lblEnjoy.Name = "lblEnjoy";
@@ -143,19 +152,21 @@
             this.lblEnjoy.TabIndex = 8;
             this.lblEnjoy.Text = "Enjoy!";
             // 
-            // label1
+            // lblPayPal
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Poor Richard", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(17, 558);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(157, 16);
-            this.label1.TabIndex = 9;
-            this.label1.Text = "Liking this and want to donate?";
+            this.lblPayPal.AutoSize = true;
+            this.lblPayPal.BackColor = System.Drawing.Color.Transparent;
+            this.lblPayPal.Font = new System.Drawing.Font("Poor Richard", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPayPal.Location = new System.Drawing.Point(17, 558);
+            this.lblPayPal.Name = "lblPayPal";
+            this.lblPayPal.Size = new System.Drawing.Size(157, 16);
+            this.lblPayPal.TabIndex = 9;
+            this.lblPayPal.Text = "Liking this and want to donate?";
             // 
             // linkLblLinkPayPal
             // 
             this.linkLblLinkPayPal.AutoSize = true;
+            this.linkLblLinkPayPal.BackColor = System.Drawing.Color.Transparent;
             this.linkLblLinkPayPal.Font = new System.Drawing.Font("Poor Richard", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLblLinkPayPal.Location = new System.Drawing.Point(180, 558);
             this.linkLblLinkPayPal.Name = "linkLblLinkPayPal";
@@ -169,10 +180,12 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.ClientSize = new System.Drawing.Size(800, 580);
+            this.BackColor = System.Drawing.SystemColors.Control;
+            this.BackgroundImage = global::EscapeFromTarkovLoadout.Properties.Resources.EscapeFromTarkovBackgroundInfo;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(604, 581);
             this.Controls.Add(this.linkLblLinkPayPal);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.lblPayPal);
             this.Controls.Add(this.lblEnjoy);
             this.Controls.Add(this.linkLblMaps);
             this.Controls.Add(this.linkLblBackpacks);
@@ -201,7 +214,7 @@
         private System.Windows.Forms.LinkLabel linkLblBackpacks;
         private System.Windows.Forms.LinkLabel linkLblMaps;
         private System.Windows.Forms.Label lblEnjoy;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblPayPal;
         private System.Windows.Forms.LinkLabel linkLblLinkPayPal;
     }
 }

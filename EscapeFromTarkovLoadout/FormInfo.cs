@@ -16,7 +16,11 @@ namespace EscapeFromTarkovLoadout
         public FormInfo()
         {
             InitializeComponent();
-            lblInfo.Text = info.GetTextForInfo();        
+            lblInfo.Text = info.GetTextForInfo();
+
+            // Text and link for donation to paypal
+            linkLblLinkPayPal.Hide();
+            lblPayPal.Hide();
         }
 
         private void linkLblWeapons_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
