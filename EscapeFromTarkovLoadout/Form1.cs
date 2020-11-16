@@ -49,8 +49,8 @@ namespace EscapeFromTarkovLoadout
                 // Add image
 
                 // Getting backpack
-                //backpacks.GetRandomBackpack();
-                // Add image
+                backpacks.GetRandomBackpack();
+                pBoxBackpack.BackgroundImage = backpacks.GetBackpackImage();
 
                 // Getting map
                 maps.GetRandomMap();

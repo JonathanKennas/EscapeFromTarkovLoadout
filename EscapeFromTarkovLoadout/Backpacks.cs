@@ -38,88 +38,87 @@ namespace EscapeFromTarkovLoadout
 
             if (backpack == 1) // 6SH118 raid backpack
             {
-                //backpackImage = Resources
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\6SH118.png");
+                backpackImage = Resources.Backpack_6SH118_Raid;
             }
             else if (backpack == 2) // Mystery Ranch Blackjack 50 backpack
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\Mystery_Ranch_Blackjack_50_backpack.png");
+                backpackImage = Resources.Backpack_Mystery_Ranch_Blackjack_50;
             }
             else if (backpack == 3) // Eberlestock F4 Terminator load bearing backpack
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\F4_terminator.png");
+                backpackImage = Resources.Backpack_Eberlestock_F4_Terminator;
             }
             else if (backpack == 4) // SSO Attack 2 raid backpack
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\Attack.png");
+                backpackImage = Resources.Backpack_SS0_Attack_2_Raid;
             }
             else if (backpack == 5) // Pilgrim tourist backpack
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\Pilgrim.png");
+                backpackImage = Resources.Backpack_Pilgrim_tourist;
             }
             else if (backpack == 6) // 3V G Paratus 3-Day Operator's Tactical Backpack
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\3V_G_Paratus.png");
+                backpackImage = Resources.Backpack_3V_G_Paratus;
             }
             else if (backpack == 7) // LBT-2670 Slim Field Med Pack
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\LBT-2670.png");
+                backpackImage = Resources.Backpack_LBT_2670_Slim_Field_Med;
             }
             else if (backpack == 8) // Oakley Mechanism heavy duty backpack
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\Oakley_Mechanism.png");
+                backpackImage = Resources.Backpack_Oakley_Mechanism;
             }
             else if (backpack == 9) // Camelbak Tri-Zip Backpack
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\Tri-Zip.png");
+                backpackImage = Resources.Backpack_Camelback_Tri_Zip;
             }
             else if (backpack == 10) // Ana tactical Beta 2 battle backpack
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\Beta2.png");
+                backpackImage = Resources.Backpack_Ana_Beta_2;
             }
             else if (backpack == 11) // Eberlestock F5 Switchblade backpack
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\Eberlestock_F5.png");
+                backpackImage = Resources.Backpack_Eberlestock_F5_Switchable;
             }
             else if (backpack == 12) // Wartech Berkut VV-102 backpack
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\Wartech_Berkut_VV-102.png");
+                backpackImage = Resources.Backpack_Wartech_Berkut_VV_102;
             }
             else if (backpack == 13) // LBT-8005A Day Pack backpack
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\Day_pack.png");
+                backpackImage = Resources.Backpack_LBT_8005A_Day_pack;
             }
             else if (backpack == 14) // Scav Backpack
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\ScavBP.png");
+                backpackImage = Resources.Backpack_Scav_Backpack;
             }
             else if (backpack == 15) // Flyye MBSS Backpack
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\Flyye_MBSS.png");
+                backpackImage = Resources.Backpack_Flyye_MBSS;
             }
             else if (backpack == 16) // Sanitar bag
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\Sanitar_Bag.png");
+                backpackImage = Resources.Backpack_Sanitar_bag;
             }
             else if (backpack == 17) // Duffle bag
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\Duffel.png");
+                backpackImage = Resources.Backpack_Duffle_bag;
             }
             else if (backpack == 18) // LK 3F Transfer tourist backpack
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\LK_3F.png");
+                backpackImage = Resources.Backpack_LK_3F_Transfer_tourist;
             }
             else if (backpack == 19) // Transformer Bag
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\T-Bag.png");
+                backpackImage = Resources.Backpack_Transformer_T_bag;
             }
             else if (backpack == 20) // VKBO army bag
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\Armybag.png");
+                backpackImage = Resources.Backpack_VKBO_Army_bag;
             }
             else if (backpack == 21) // Tactical sling bag
             {
-                backpackImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Backpacks\SlingBackPack.png");
+                backpackImage = Resources.Backpack_Tactical_sling;
             }
             else
             {

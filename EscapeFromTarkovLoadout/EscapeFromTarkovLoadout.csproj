@@ -220,5 +220,68 @@
   <ItemGroup>
     <None Include="Resources\Rig_Velocity_MPPV.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_3V_G_Paratus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_6SH118_Raid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_Ana_Beta_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_Camelback_Tri-Zip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_Duffle_bag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_Eberlestock_F4_Terminator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_Eberlestock_F5_Switchable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_Flyye_MBSS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_LBT-2670_Slim_Field_Med.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_LBT-8005A_Day_pack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_LK_3F_Transfer_tourist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_Mystery_Ranch_Blackjack_50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_Oakley_Mechanism.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_Pilgrim_tourist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_Sanitar_bag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_Scav_Backpack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_SS0_Attack_2_Raid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_Tactical_sling.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_Transformer_T-bag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_Wartech_Berkut_VV-102.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backpack_VKBO_Army_bag.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

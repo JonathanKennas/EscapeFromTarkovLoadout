@@ -63,6 +63,216 @@ namespace EscapeFromTarkovLoadout.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Backpack_3V_G_Paratus {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_3V_G_Paratus", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_6SH118_Raid {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_6SH118_Raid", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_Ana_Beta_2 {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_Ana_Beta_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_Camelback_Tri_Zip {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_Camelback_Tri-Zip", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_Duffle_bag {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_Duffle_bag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_Eberlestock_F4_Terminator {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_Eberlestock_F4_Terminator", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_Eberlestock_F5_Switchable {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_Eberlestock_F5_Switchable", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_Flyye_MBSS {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_Flyye_MBSS", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_LBT_2670_Slim_Field_Med {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_LBT-2670_Slim_Field_Med", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_LBT_8005A_Day_pack {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_LBT-8005A_Day_pack", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_LK_3F_Transfer_tourist {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_LK_3F_Transfer_tourist", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_Mystery_Ranch_Blackjack_50 {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_Mystery_Ranch_Blackjack_50", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_Oakley_Mechanism {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_Oakley_Mechanism", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_Pilgrim_tourist {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_Pilgrim_tourist", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_Sanitar_bag {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_Sanitar_bag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_Scav_Backpack {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_Scav_Backpack", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_SS0_Attack_2_Raid {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_SS0_Attack_2_Raid", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_Tactical_sling {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_Tactical_sling", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_Transformer_T_bag {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_Transformer_T-bag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_VKBO_Army_bag {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_VKBO_Army_bag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Backpack_Wartech_Berkut_VV_102 {
+            get {
+                object obj = ResourceManager.GetObject("Backpack_Wartech_Berkut_VV-102", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap EscapeFromTarkovBackgroundCharacter {
             get {
                 object obj = ResourceManager.GetObject("EscapeFromTarkovBackgroundCharacter", resourceCulture);
