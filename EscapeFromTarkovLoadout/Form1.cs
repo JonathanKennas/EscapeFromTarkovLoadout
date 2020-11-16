@@ -12,13 +12,15 @@ namespace EscapeFromTarkovLoadout
 {
     public partial class Form1 : Form
     {
-        Information info = new Information();
+        
+        //Information info = new Information();
         Maps maps = new Maps();
         Weapons weapons = new Weapons();
         Armor armor = new Armor();
         Rigs rigs = new Rigs();
         Headwear headwear = new Headwear();
         Backpacks backpacks = new Backpacks();
+        FormInfo fi = new FormInfo();
 
         public Form1()
         {
@@ -67,7 +69,9 @@ namespace EscapeFromTarkovLoadout
             try
             {
                 // Information about this application shown in a messagebox when clicking at the "info" picture
-                MessageBox.Show(info.GetTextForInfo(), info.GetTitleForInfo());
+                //MessageBox.Show(info.GetTextForInfo(), info.GetTitleForInfo());
+                fi.ShowDialog();
+                // Change to open new form with info
             }
             catch (Exception ex)
             {

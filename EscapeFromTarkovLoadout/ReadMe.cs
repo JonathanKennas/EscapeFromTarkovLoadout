@@ -32,7 +32,7 @@ namespace EscapeFromTarkovLoadout
         // Link: https://www.c-sharpcorner.com/blogs/publishing-windows-form-in-desktop
 
 
-        ////When adding:
+        ////When adding (remember to add the ammount to Information.cs aswell):
         // Weapons:
         // - Remember to add image
         // - Control if it's a pistol or not (controling if the weapon is on the sling or holster), control is in Form1.cs

@@ -83,7 +83,7 @@
             // 
             this.pBoxInfo.BackColor = System.Drawing.Color.Transparent;
             this.pBoxInfo.BackgroundImage = global::EscapeFromTarkovLoadout.Properties.Resources.Info_logo;
-            this.pBoxInfo.Location = new System.Drawing.Point(1143, 3);
+            this.pBoxInfo.Location = new System.Drawing.Point(1134, 3);
             this.pBoxInfo.Name = "pBoxInfo";
             this.pBoxInfo.Size = new System.Drawing.Size(25, 25);
             this.pBoxInfo.TabIndex = 4;

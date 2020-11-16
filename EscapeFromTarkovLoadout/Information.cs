@@ -8,12 +8,12 @@ namespace EscapeFromTarkovLoadout
 {
     public class Information
     {
-        public string GetTitleForInfo()
-        {
-            string text;
-            text = "Information";
-            return text;
-        }
+        //public string GetTitleForInfo()
+        //{
+        //    string text;
+        //    text = "Information";
+        //    return text;
+        //}
 
         public string GetTextForInfo()
         {
@@ -29,9 +29,57 @@ namespace EscapeFromTarkovLoadout
                 "21 backpacks\n " +
                 "7 maps\n\n" +
                 "Feel free to mod the weapons as you like, the images are the standard appearance for it.\n" +
-                "Some helmets and armor exists in diffrent colors, the images represent the model only.\n\n"+
-                "Enjoy!";
+                "Some helmets and armor exists in diffrent colors, the images represent the model only.";
             return text;
+        }
+
+        // Link to Escape From Tarkov Weapons
+        public void VisitLinkWeapons()
+        {
+            //Call the Process.Start method to open the default browser with a URL:
+            System.Diagnostics.Process.Start("https://escapefromtarkov.gamepedia.com/Weapons");
+        }
+
+        // Link to Escape From Tarkov Armor
+        public void VisitLinkArmor()
+        {
+            //Call the Process.Start method to open the default browser with a URL:
+            System.Diagnostics.Process.Start("https://escapefromtarkov.gamepedia.com/Armor_vests");
+        }
+
+        // Link to Escape From Tarkov Headwear
+        public void VisitLinkHeadwear()
+        {
+            //Call the Process.Start method to open the default browser with a URL:
+            System.Diagnostics.Process.Start("https://escapefromtarkov.gamepedia.com/Headwear");
+        }
+
+        // Link to Escape From Tarkov Rigs
+        public void VisitLinkRigs()
+        {
+            //Call the Process.Start method to open the default browser with a URL:
+            System.Diagnostics.Process.Start("https://escapefromtarkov.gamepedia.com/Chest_rigs#Armored");
+        }
+
+        // Link to Escape From Tarkov Backpacks
+        public void VisitLinkBackpacks()
+        {
+            //Call the Process.Start method to open the default browser with a URL:
+            System.Diagnostics.Process.Start("https://escapefromtarkov.gamepedia.com/Backpacks");
+        }
+
+        // Link to Escape From Tarkov Maps
+        public void VisitLinkMaps()
+        {
+            //Call the Process.Start method to open the default browser with a URL:
+            System.Diagnostics.Process.Start("https://escapefromtarkov.gamepedia.com/Map_of_Tarkov");
+        }
+
+        // Link to PayPal for donations
+        public void VisitPayPalDonate()
+        {
+            // Add URL
+            System.Diagnostics.Process.Start("");
         }
     }
 }
