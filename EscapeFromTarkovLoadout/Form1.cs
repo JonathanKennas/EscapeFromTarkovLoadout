@@ -31,7 +31,7 @@ namespace EscapeFromTarkovLoadout
             {
                 // Getting weapon
                 //weapons.GetRandomWeapon();
-                // Add image
+                //GetWeaponType();
 
                 // Getting headwear
                 //headwear.GetRandomHeadwear();
@@ -73,6 +73,16 @@ namespace EscapeFromTarkovLoadout
             {
                 MessageBox.Show(ex.Message);
             }
+        }
+        private void GetWeaponType()
+        {
+            int type;
+            type = weapons.weaponNumber;
+            if (type > 67) // Control if the weapon is a pistol (over 67)
+            {
+                pBoxWeapon_Pistol.BackgroundImage = weapons.GetWeaponImage();
+            }
+            else pBoxWeapon.BackgroundImage = weapons.GetWeaponImage();
         }
     }
 }

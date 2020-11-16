@@ -13,7 +13,8 @@ namespace EscapeFromTarkovLoadout
         // 83 weapons in patch 0.12.8.97.67 (16 guns)
         //https://escapefromtarkov.gamepedia.com/Weapons
 
-        int weaponNumber; // Local varibale for storing the random generaten weapon number
+        // Needs to be public for usage from From1, control if the weapon is a pistol or not
+        public int weaponNumber; // Local varibale for storing the random generaten weapon number
 
         // Generates random number between 1-83, there are 83 bifrent weapons
         public int RandomWeapon()

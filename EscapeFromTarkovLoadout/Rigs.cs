@@ -15,7 +15,7 @@ namespace EscapeFromTarkovLoadout
 
         // IMPORTANT! When adding a new rig, remember to add it to control in Armor-class
 
-        // Needs to be public for usage from From1
+        // Needs to be public for usage from From1, control if the rig is compatible with armor or not
         public int rigNumber; // Local varibale for storing the random generaten rig number
 
         // Generates random number between 1-26, there are 26 diffrent rigs

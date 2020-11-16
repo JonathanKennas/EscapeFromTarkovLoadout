@@ -35,7 +35,7 @@ namespace EscapeFromTarkovLoadout
         ////When adding:
         // Weapons:
         // - Remember to add image
-        // - Control if it's a pistol or not (controling if the weapon is on the sling or holster)
+        // - Control if it's a pistol or not (controling if the weapon is on the sling or holster), control is in Form1.cs
         // Link to all weapons: https://escapefromtarkov.gamepedia.com/Weapons
 
         // Armor:
@@ -49,7 +49,7 @@ namespace EscapeFromTarkovLoadout
         // Rigs:
         // - Remember to add image
         // - Control if the rig is compatible with armor
-        // - Add to controler for armor if it's armored
+        // - Add to controler for armor if it's armored, control is in Armor.cs (GetArmorImage())
         // Link to all rigs: https://escapefromtarkov.gamepedia.com/Chest_rigs#Armored
 
         // Backpacks:
