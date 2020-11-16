@@ -27,7 +27,9 @@ namespace EscapeFromTarkovLoadout
                 "55 headwear\n " +
                 "26 rigs (10 armored & 16 unarmored)\n " +
                 "21 backpacks\n " +
-                "7 maps\n\n " +
+                "7 maps\n\n" +
+                "Feel free to mod the weapons as you like, the images are the standard appearance for it.\n" +
+                "Some helmets and armor exists in diffrent colors, the images represent the model only.\n\n"+
                 "Enjoy!";
             return text;
         }
