@@ -12,6 +12,7 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -24,7 +25,6 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
@@ -294,6 +294,474 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\EscapeFromTarkovBackgroundInfo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultCarbine_OP-SKS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultCarbine_SKS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultCarbine_Vepr_Hunter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_ADAR_2-15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_AK-74.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_AK-74M.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_AK-74N.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_AK-101.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_AK-102.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_AK-103.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_AK-104.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_AK-105.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_AKM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_AKMN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_AKMS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_AKMSN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_AKS-74.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_AKS-74N.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_AKS-74U.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_AKS-74UB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_AKS-74UN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_AS_VAL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_ASh-12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_DT_MDR_556.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_DT_MDR_762.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_HK_416A5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_Kel-Tec_RFB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_M4A1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_SA-58.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_TX-15_DML.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_Vepr_AKM_VPO-209.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_AssaultRifle_Vepr_KM_VPO-136.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_DMR_M1A.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_DMR_RSASS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_DMR_SR-25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_DMR_SVDS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_DMR_VSS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_LightMachineGun_RPK-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Pistol_APB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Pistol_APS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Pistol_FN_5-7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Pistol_Glock_17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Pistol_Glock_18C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Pistol_M9A3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Pistol_M45A1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Pistol_M1911A1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Pistol_MP-443_Grach.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Pistol_P225R.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Pistol_PB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Pistol_PM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Pistol_PM_t.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Pistol_SR-1MP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Pistol_TT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Pistol_TT_Glod.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Shotgun_590A1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Shotgun_KS-23M.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Shotgun_M870.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Shotgun_MP-133.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Shotgun_MP-153.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Shotgun_Saiga-12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Shotgun_TOZ-106.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SniperRifle_DVL-10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SniperRifle_M700.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SniperRifle_Mosin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SniperRifle_Mosin_inf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SniperRifle_SV-98.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SniperRifle_T-5000.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SniperRifle_VOP-215.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SubMachineGun_MP5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SubMachineGun_MP5K-N.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SubMachineGun_MP7A1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SubMachineGun_MP7A2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SubMachineGun_MP9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SubMachineGun_MP9-N.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SubMachineGun_MPX.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SubMachineGun_P90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SubMachineGun_PP-9_Klin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SubMachineGun_PP-19-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SubMachineGun_PP-91_Kedr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SubMachineGun_PP-91-01_Kedr-B.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SubMachineGun_PPSH-41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_SubMachineGun_Saiga-9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_6B2_armor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_6B13_M_Killa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_6B13-assault.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_6B23-1_digital_flora.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_6B23-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_6B43_Zabralo-Sh_6A_Fort.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_BNTI_Gzhel-K.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_BNTI_Kirasa-N.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_BNTI_Korund-VM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_FORT_Defender-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_FORT_Redut-M.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_Highcom_Trooper_TFO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_IOTV_Gen4_assault.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_IOTV_Gen4_full.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_IOTV_Gen4_high_mobility.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_LBT_6094A_Slick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_MF-UNTAR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_Module-3M.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_PACA_Soft_Armor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_Zhuk-3_Press_Armor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_Zhuk-6a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_6B47_Ratnik-BSh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Airframe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Altyn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Armasight_NVG_mask.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Army_cap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Bandana.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Baseball_cap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Beanie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_BEAR_Baseball.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_BEAR_Baseball_Black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Beret_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Beret_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Beret_olive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_BNTI_LSHZ-2DTM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Cowboy_Hat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_DEVTAC_Ronin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Diamond_Age_Bastion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Door_Kicker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_EmerCom_cap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Galvion_Caiman.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Highcom_Striker_ACHHC_IIIA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Highcom_Striker_ULACH_IIIA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Jack-o-lantern_pumpkin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Kiver-M.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Kolpak-1S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Kotton_Beanie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_LZSh_light.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Maska_1Sch_Killa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Miltec_Panama.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_MSA_ACH_TC-2001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_MSA_ACH_TC-2002.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_MSA_Gallet_TC_800.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Ops_Core_Fast_MT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Police_cap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Pompon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_PSH-97_Djeta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Shmaska_Ski_hat_with_holes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_SHPM_Firefighter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Soft_tank_crew_helmet_TSH-4M-L.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_SSh-68.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_SSSh-95_Sfera-S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Tac-Kek_Fast_MT_Helmet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Tactical_Fleece_hat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Team_Wendy_EXFIL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_UNTAR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_USEC_Baseball.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_USEC_Baseball_Black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Ushanka_ear-flap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_UX_PRO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Wilcox_Skull_Lock_head_mount.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Vulkan-5_LShZ-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_ZSh1-2M.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_Pistol_P226R.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

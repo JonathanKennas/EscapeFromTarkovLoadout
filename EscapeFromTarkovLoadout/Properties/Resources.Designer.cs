@@ -63,6 +63,216 @@ namespace EscapeFromTarkovLoadout.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Armor_6B13_assault {
+            get {
+                object obj = ResourceManager.GetObject("Armor_6B13-assault", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_6B13_M_Killa {
+            get {
+                object obj = ResourceManager.GetObject("Armor_6B13_M_Killa", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_6B2_armor {
+            get {
+                object obj = ResourceManager.GetObject("Armor_6B2_armor", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_6B23_1_digital_flora {
+            get {
+                object obj = ResourceManager.GetObject("Armor_6B23-1_digital_flora", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_6B23_2 {
+            get {
+                object obj = ResourceManager.GetObject("Armor_6B23-2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_6B43_Zabralo_Sh_6A_Fort {
+            get {
+                object obj = ResourceManager.GetObject("Armor_6B43_Zabralo-Sh_6A_Fort", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_BNTI_Gzhel_K {
+            get {
+                object obj = ResourceManager.GetObject("Armor_BNTI_Gzhel-K", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_BNTI_Kirasa_N {
+            get {
+                object obj = ResourceManager.GetObject("Armor_BNTI_Kirasa-N", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_BNTI_Korund_VM {
+            get {
+                object obj = ResourceManager.GetObject("Armor_BNTI_Korund-VM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_FORT_Defender_2 {
+            get {
+                object obj = ResourceManager.GetObject("Armor_FORT_Defender-2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_FORT_Redut_M {
+            get {
+                object obj = ResourceManager.GetObject("Armor_FORT_Redut-M", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_Highcom_Trooper_TFO {
+            get {
+                object obj = ResourceManager.GetObject("Armor_Highcom_Trooper_TFO", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_IOTV_Gen4_assault {
+            get {
+                object obj = ResourceManager.GetObject("Armor_IOTV_Gen4_assault", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_IOTV_Gen4_full {
+            get {
+                object obj = ResourceManager.GetObject("Armor_IOTV_Gen4_full", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_IOTV_Gen4_high_mobility {
+            get {
+                object obj = ResourceManager.GetObject("Armor_IOTV_Gen4_high_mobility", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_LBT_6094A_Slick {
+            get {
+                object obj = ResourceManager.GetObject("Armor_LBT_6094A_Slick", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_MF_UNTAR {
+            get {
+                object obj = ResourceManager.GetObject("Armor_MF-UNTAR", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_Module_3M {
+            get {
+                object obj = ResourceManager.GetObject("Armor_Module-3M", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_PACA_Soft_Armor {
+            get {
+                object obj = ResourceManager.GetObject("Armor_PACA_Soft_Armor", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_Zhuk_3_Press_Armor {
+            get {
+                object obj = ResourceManager.GetObject("Armor_Zhuk-3_Press_Armor", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Armor_Zhuk_6a {
+            get {
+                object obj = ResourceManager.GetObject("Armor_Zhuk-6a", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Backpack_3V_G_Paratus {
             get {
                 object obj = ResourceManager.GetObject("Backpack_3V_G_Paratus", resourceCulture);
@@ -286,6 +496,526 @@ namespace EscapeFromTarkovLoadout.Properties {
         internal static System.Drawing.Bitmap EscapeFromTarkovBackgroundInfo {
             get {
                 object obj = ResourceManager.GetObject("EscapeFromTarkovBackgroundInfo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_6B47_Ratnik_BSh {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_6B47_Ratnik-BSh", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Airframe {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Airframe", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Altyn {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Altyn", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Armasight_NVG_mask {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Armasight_NVG_mask", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Army_cap {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Army_cap", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Bandana {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Bandana", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Baseball_cap {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Baseball_cap", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Beanie {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Beanie", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_BEAR_Baseball {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_BEAR_Baseball", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_BEAR_Baseball_Black {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_BEAR_Baseball_Black", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Beret_black {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Beret_black", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Beret_blue {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Beret_blue", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Beret_olive {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Beret_olive", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_BNTI_LSHZ_2DTM {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_BNTI_LSHZ-2DTM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Cowboy_Hat {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Cowboy_Hat", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_DEVTAC_Ronin {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_DEVTAC_Ronin", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Diamond_Age_Bastion {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Diamond_Age_Bastion", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Door_Kicker {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Door_Kicker", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_EmerCom_cap {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_EmerCom_cap", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Galvion_Caiman {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Galvion_Caiman", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Highcom_Striker_ACHHC_IIIA {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Highcom_Striker_ACHHC_IIIA", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Highcom_Striker_ULACH_IIIA {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Highcom_Striker_ULACH_IIIA", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Jack_o_lantern_pumpkin {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Jack-o-lantern_pumpkin", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Kiver_M {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Kiver-M", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Kolpak_1S {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Kolpak-1S", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Kotton_Beanie {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Kotton_Beanie", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_LZSh_light {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_LZSh_light", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Maska_1Sch_Killa {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Maska_1Sch_Killa", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Miltec_Panama {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Miltec_Panama", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_MSA_ACH_TC_2001 {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_MSA_ACH_TC-2001", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_MSA_ACH_TC_2002 {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_MSA_ACH_TC-2002", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_MSA_Gallet_TC_800 {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_MSA_Gallet_TC_800", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Ops_Core_Fast_MT {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Ops_Core_Fast_MT", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Police_cap {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Police_cap", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Pompon {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Pompon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_PSH_97_Djeta {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_PSH-97_Djeta", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Shmaska_Ski_hat_with_holes {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Shmaska_Ski_hat_with_holes", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_SHPM_Firefighter {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_SHPM_Firefighter", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Soft_tank_crew_helmet_TSH_4M_L {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Soft_tank_crew_helmet_TSH-4M-L", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_SSh_68 {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_SSh-68", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_SSSh_95_Sfera_S {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_SSSh-95_Sfera-S", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Tac_Kek_Fast_MT_Helmet {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Tac-Kek_Fast_MT_Helmet", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Tactical_Fleece_hat {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Tactical_Fleece_hat", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Team_Wendy_EXFIL {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Team_Wendy_EXFIL", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_UNTAR {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_UNTAR", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_USEC_Baseball {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_USEC_Baseball", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_USEC_Baseball_Black {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_USEC_Baseball_Black", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Ushanka_ear_flap {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Ushanka_ear-flap", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_UX_PRO {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_UX_PRO", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Vulkan_5_LShZ_5 {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Vulkan-5_LShZ-5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Wilcox_Skull_Lock_head_mount {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Wilcox_Skull_Lock_head_mount", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_ZSh1_2M {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_ZSh1-2M", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -626,6 +1356,826 @@ namespace EscapeFromTarkovLoadout.Properties {
         internal static System.Drawing.Bitmap Rig_Wartech_TV_109_TV_106 {
             get {
                 object obj = ResourceManager.GetObject("Rig_Wartech_TV-109_TV-106", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultCarbine_OP_SKS {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultCarbine_OP-SKS", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultCarbine_SKS {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultCarbine_SKS", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultCarbine_Vepr_Hunter {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultCarbine_Vepr_Hunter", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_ADAR_2_15 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_ADAR_2-15", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_AK_101 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_AK-101", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_AK_102 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_AK-102", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_AK_103 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_AK-103", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_AK_104 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_AK-104", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_AK_105 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_AK-105", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_AK_74 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_AK-74", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_AK_74M {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_AK-74M", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_AK_74N {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_AK-74N", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_AKM {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_AKM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_AKMN {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_AKMN", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_AKMS {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_AKMS", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_AKMSN {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_AKMSN", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_AKS_74 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_AKS-74", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_AKS_74N {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_AKS-74N", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_AKS_74U {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_AKS-74U", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_AKS_74UB {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_AKS-74UB", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_AKS_74UN {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_AKS-74UN", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_AS_VAL {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_AS_VAL", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_ASh_12 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_ASh-12", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_DT_MDR_556 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_DT_MDR_556", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_DT_MDR_762 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_DT_MDR_762", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_HK_416A5 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_HK_416A5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_Kel_Tec_RFB {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_Kel-Tec_RFB", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_M4A1 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_M4A1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_SA_58 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_SA-58", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_TX_15_DML {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_TX-15_DML", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_Vepr_AKM_VPO_209 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_Vepr_AKM_VPO-209", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_AssaultRifle_Vepr_KM_VPO_136 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_AssaultRifle_Vepr_KM_VPO-136", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_DMR_M1A {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_DMR_M1A", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_DMR_RSASS {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_DMR_RSASS", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_DMR_SR_25 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_DMR_SR-25", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_DMR_SVDS {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_DMR_SVDS", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_DMR_VSS {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_DMR_VSS", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_LightMachineGun_RPK_16 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_LightMachineGun_RPK-16", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Pistol_APB {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Pistol_APB", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Pistol_APS {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Pistol_APS", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Pistol_FN_5_7 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Pistol_FN_5-7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Pistol_Glock_17 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Pistol_Glock_17", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Pistol_Glock_18C {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Pistol_Glock_18C", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Pistol_M1911A1 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Pistol_M1911A1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Pistol_M45A1 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Pistol_M45A1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Pistol_M9A3 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Pistol_M9A3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Pistol_MP_443_Grach {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Pistol_MP-443_Grach", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Pistol_P226R {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Pistol_P226R", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Pistol_PB {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Pistol_PB", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Pistol_PM {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Pistol_PM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Pistol_PM_t {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Pistol_PM_t", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Pistol_SR_1MP {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Pistol_SR-1MP", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Pistol_TT {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Pistol_TT", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Pistol_TT_Glod {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Pistol_TT_Glod", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Shotgun_590A1 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Shotgun_590A1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Shotgun_KS_23M {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Shotgun_KS-23M", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Shotgun_M870 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Shotgun_M870", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Shotgun_MP_133 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Shotgun_MP-133", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Shotgun_MP_153 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Shotgun_MP-153", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Shotgun_Saiga_12 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Shotgun_Saiga-12", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_Shotgun_TOZ_106 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_Shotgun_TOZ-106", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SniperRifle_DVL_10 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SniperRifle_DVL-10", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SniperRifle_M700 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SniperRifle_M700", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SniperRifle_Mosin {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SniperRifle_Mosin", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SniperRifle_Mosin_inf {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SniperRifle_Mosin_inf", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SniperRifle_SV_98 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SniperRifle_SV-98", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SniperRifle_T_5000 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SniperRifle_T-5000", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SniperRifle_VOP_215 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SniperRifle_VOP-215", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SubMachineGun_MP5 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SubMachineGun_MP5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SubMachineGun_MP5K_N {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SubMachineGun_MP5K-N", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SubMachineGun_MP7A1 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SubMachineGun_MP7A1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SubMachineGun_MP7A2 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SubMachineGun_MP7A2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SubMachineGun_MP9 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SubMachineGun_MP9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SubMachineGun_MP9_N {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SubMachineGun_MP9-N", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SubMachineGun_MPX {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SubMachineGun_MPX", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SubMachineGun_P90 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SubMachineGun_P90", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SubMachineGun_PP_19_01 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SubMachineGun_PP-19-01", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SubMachineGun_PP_9_Klin {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SubMachineGun_PP-9_Klin", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SubMachineGun_PP_91_01_Kedr_B {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SubMachineGun_PP-91-01_Kedr-B", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SubMachineGun_PP_91_Kedr {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SubMachineGun_PP-91_Kedr", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SubMachineGun_PPSH_41 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SubMachineGun_PPSH-41", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_SubMachineGun_Saiga_9 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_SubMachineGun_Saiga-9", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -48,92 +48,91 @@ namespace EscapeFromTarkovLoadout
             {
                 if (armor == 1) // Module-3M bodyarmor
                 {
-                    //armorImage = Resources
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\3M.png");
+                    armorImage = Resources.Armor_Module_3M;
                 }
                 else if (armor == 2) // PACA Soft Armor
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\PACA.png");
+                    armorImage = Resources.Armor_PACA_Soft_Armor;
                 }
                 else if (armor == 3) // 6B2 armor
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\6B2.png");
+                    armorImage = Resources.Armor_6B2_armor;
                 }
                 else if (armor == 4) // MF-UNTAR armor vest
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\UNTARArmor.png");
+                    armorImage = Resources.Armor_MF_UNTAR;
                 }
                 else if (armor == 5) // Zhuk - 3 Press armor
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\Zhuk-3_Press_armor.png");
+                    armorImage = Resources.Armor_Zhuk_3_Press_Armor;
                 }
                 else if (armor == 6) // 6B23-1 armor
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\6B23-1.png");
+                    armorImage = Resources.Armor_6B23_1_digital_flora;
                 }
                 else if (armor == 7) // BNTI Kirasa-N armor
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\Kirasa.png");
+                    armorImage = Resources.Armor_BNTI_Kirasa_N;
                 }
                 else if (armor == 8) // Highcom Trooper TFO armor
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\Highcom_Trooper.png");
+                    armorImage = Resources.Armor_Highcom_Trooper_TFO;
                 }
                 else if (armor == 9) // 6B13 assault armor
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\6B13.gif");
+                    armorImage = Resources.Armor_6B13_assault;
                 }
                 else if (armor == 10) // 6B23-2 armor
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\6B23-2.png");
+                    armorImage = Resources.Armor_6B23_2;
                 }
                 else if (armor == 11) // BNTI Korund-VM armor
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\KORUND.png");
+                    armorImage = Resources.Armor_BNTI_Korund_VM;
                 }
                 else if (armor == 12) // FORT Redut-M body armor
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\FORT_Redut-M.png");
+                    armorImage = Resources.Armor_FORT_Redut_M;
                 }
-                else if (armor == 13) // 6B13 M assault armor
+                else if (armor == 13) // 6B13 M Killa assault armor
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\6B13_M_killa.png");
+                    armorImage = Resources.Armor_6B13_M_Killa;
                 }
                 else if (armor == 14) // IOTV Gen4 armor (high mobility kit)
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\Gen4hmk.png");
+                    armorImage = Resources.Armor_IOTV_Gen4_high_mobility;
                 }
                 else if (armor == 15) // BNTI Gzhel-K armor
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\GZHEL-K.png");
+                    armorImage = Resources.Armor_BNTI_Gzhel_K;
                 }
                 else if (armor == 16) // FORT Defender-2 body armor
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\Defender-2.png");
+                    armorImage = Resources.Armor_FORT_Defender_2;
                 }
                 else if (armor == 17) // IOTV Gen4 armor (assault kit)
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\Gen4assault.png");
+                    armorImage = Resources.Armor_IOTV_Gen4_assault;
                 }
                 else if (armor == 18) // IOTV Gen4 armor (full protection)
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\Gen4full.png");
+                    armorImage = Resources.Armor_IOTV_Gen4_full;
                 }
                 else if (armor == 19) // FORT Redut-T5 body armor
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\FORT_Redut-T5.png");
+                    armorImage = null;
                 }
                 else if (armor == 20) // LBT 6094A Slick Plate Carrier
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\Slick.png");
+                    armorImage = Resources.Armor_LBT_6094A_Slick;
                 }
                 else if (armor == 21) // Zhuk-6a heavy armor
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\Zhuk-6a.png");
+                    armorImage = Resources.Armor_Zhuk_6a;
                 }
                 else if (armor == 22) // 6B43 Zabralo-Sh 6A Armor
                 {
-                    armorImage = Image.FromFile(@"C:\Users\jk95\source\repos\SlotEFT\SlotEFT\Images\Armor\FORT-6b43-6a.png");
+                    armorImage = Resources.Armor_6B43_Zabralo_Sh_6A_Fort;
                 }
                 else armorImage = null;
                 return armorImage;

@@ -118,175 +118,640 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Rig_Wartech_MK3_TV-104" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_Wartech_MK3_TV-104.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Rig_Armored_6B5-16-Zh-86" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_6B5-16-Zh-86.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Backpack_Sanitar_bag" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_Sanitar_bag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Weapon_SubMachineGun_PP-19-01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SubMachineGun_PP-19-01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Rig_Haley_Strategic_D3CRX" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_Haley_Strategic_D3CRX.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Rig_Armored_ANA_Tactical_M2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_Armored_ANA_Tactical_M2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Backpack_Pilgrim_tourist" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_Pilgrim_tourist.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Rig_Triton_M43-A" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_Triton_M43-A.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Headwear_Vulkan-5_LShZ-5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Vulkan-5_LShZ-5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Map_Shoreline" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Map_Shoreline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Backpack_Eberlestock_F5_Switchable" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_Eberlestock_F5_Switchable.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Rig_Spiritus_System_Bank_Robber" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Spiritus_System_Bank_Robber.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Rig_Direct_Action_Thunderbolt" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_Direct_Action_Thunderbolt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Headwear_Shmaska_Ski_hat_with_holes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Shmaska_Ski_hat_with_holes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Rig_Wartech_TV-109_TV-106" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_Wartech_TV-109_TV-106.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Headwear_Maska_1Sch_Killa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Maska_1Sch_Killa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Map_Factory" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Map_Factory.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Backpack_Scav_Backpack" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_Scav_Backpack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Backpack_Eberlestock_F4_Terminator" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_Eberlestock_F4_Terminator.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Backpack_LBT-8005A_Day_pack" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_LBT-8005A_Day_pack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Map_Interchange" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Map_Interchange.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Rig_Belt-A_Belt-B" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_Belt-A_Belt-B.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Armor_Highcom_Trooper_TFO" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_Highcom_Trooper_TFO.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Rig_Velocity_MPPV" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Rig_Velocity_MPPV.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Backpack_VKBO_Army_bag" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_VKBO_Army_bag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Headwear_UX_PRO" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_UX_PRO.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Rig_LBT-1961A_Load_Bearing" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_LBT-1961A_Load_Bearing.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Backpack_Mystery_Ranch_Blackjack_50" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_Mystery_Ranch_Blackjack_50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Rig_SOE_Micro_rig" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_SOE_Micro_rig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Rig_Armored_Ars_Arma_A18" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_Armored_Ars_Arma_A18.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Rig_Armored_511_TacTec" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_Armored_511_TacTec.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Rig_BlackRock" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_BlackRock.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Backpack_Flyye_MBSS" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_Flyye_MBSS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Backpack_Tactical_sling" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_Tactical_sling.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Rig_UMTBS_6sh112_Scout-sniper" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_UMTBS_6sh112_Scout-sniper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Rig_ANA_Tactical_Alpha" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_ANA_Tactical_Alpha.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Rig_Armored_Crye_Precission_AVS" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_Armored_Crye_Precission_AVS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Backpack_Wartech_Berkut_VV-102" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_Wartech_Berkut_VV-102.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Rig_Armored_Ars_Arma_CPC_MOD_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_Armored_Ars_Arma_CPC_MOD_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Headwear_MSA_ACH_TC-2001" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_MSA_ACH_TC-2001.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Backpack_3V_G_Paratus" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Backpack_3V_G_Paratus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Backpack_Camelback_Tri-Zip" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_Camelback_Tri-Zip.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Weapon_DMR_VSS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_DMR_VSS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Rig_Splav_Tarzan_M22" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_Splav_Tarzan_M22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="EscapeFromTarkovBackgroundInfo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EscapeFromTarkovBackgroundInfo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Map_Woods" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Map_Woods.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Armor_6B23-2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_6B23-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Rig_Armored_Wartech_TV-110" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_Armored_Wartech_TV-110.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Headwear_Beret_olive" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Beret_olive.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Backpack_LBT-2670_Slim_Field_Med" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_LBT-2670_Slim_Field_Med.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Headwear_Team_Wendy_EXFIL" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Team_Wendy_EXFIL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Backpack_Ana_Beta_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_Ana_Beta_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Weapon_SubMachineGun_MP9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SubMachineGun_MP9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Map_Reserve" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Map_Reserve.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Weapon_AssaultCarbine_Vepr_Hunter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultCarbine_Vepr_Hunter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Rig_Armored_6B5-15-Zh" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_Armored_6B5-15-Zh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Rig_UMTBS_6sh112_Scout-sniper" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_UMTBS_6sh112_Scout-sniper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_AKMS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_AKMS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Rig_Scav_vest" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Rig_Scav_vest.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Backpack_SS0_Attack_2_Raid" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_SS0_Attack_2_Raid.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Weapon_AssaultRifle_AKM" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_AKM.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Backpack_LK_3F_Transfer_tourist" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_LK_3F_Transfer_tourist.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Weapon_AssaultRifle_AKS-74UN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_AKS-74UN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Rig_Armored_6B3TM-01M" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_Armored_6B3TM-01M.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Headwear_BEAR_Baseball" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_BEAR_Baseball.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="EscapeFromTarkovBackgroundCharacter" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\EscapeFromTarkovBackgroundCharacter.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Headwear_Diamond_Age_Bastion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Diamond_Age_Bastion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Map_TheLab" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Map_TheLab.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Weapon_DMR_M1A" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_DMR_M1A.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Backpack_Transformer_T-bag" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_Transformer_T-bag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Armor_6B23-1_digital_flora" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_6B23-1_digital_flora.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Rig_Blackhawk_Commando" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_Blackhawk_Commando.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Weapon_AssaultCarbine_SKS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultCarbine_SKS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Info_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Info_logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Headwear_Kiver-M" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Kiver-M.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Backpack_Oakley_Mechanism" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_Oakley_Mechanism.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Rig_Armored_6B5-16-Zh-86" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_Armored_6B5-16-Zh-86.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Backpack_6SH118_Raid" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_6SH118_Raid.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Backpack_Duffle_bag" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Backpack_Duffle_bag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Rig_Armored_ANA_Tactical_M1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_Armored_ANA_Tactical_M1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Rig_Spiritus_System_Bank_Robber" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rig_Spiritus_System_Bank_Robber.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Rig_Armored_Wartech_TV-110" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_Wartech_TV-110.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Map_Customs" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Map_Customs.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="EscapeFromTarkovBackgroundInfo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\EscapeFromTarkovBackgroundInfo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Headwear_Police_cap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Police_cap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_DEVTAC_Ronin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_DEVTAC_Ronin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_DMR_SVDS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_DMR_SVDS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Baseball_cap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Baseball_cap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Highcom_Striker_ULACH_IIIA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Highcom_Striker_ULACH_IIIA.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_AK-104" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_AK-104.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Pistol_FN_5-7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Pistol_FN_5-7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Pistol_TT_Glod" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Pistol_TT_Glod.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_ASh-12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_ASh-12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_DMR_SR-25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_DMR_SR-25.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_Kel-Tec_RFB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_Kel-Tec_RFB.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Beret_black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Beret_black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Pistol_MP-443_Grach" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Pistol_MP-443_Grach.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EscapeFromTarkovBackgroundCharacter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EscapeFromTarkovBackgroundCharacter.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Shotgun_MP-133" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Shotgun_MP-133.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_ANA_Tactical_Alpha" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_ANA_Tactical_Alpha.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_AKS-74" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_AKS-74.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Armored_6B5-15-Zh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_6B5-15-Zh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_SubMachineGun_PP-91_Kedr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SubMachineGun_PP-91_Kedr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_EmerCom_cap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_EmerCom_cap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_Transformer_T-bag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_Transformer_T-bag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Highcom_Striker_ACHHC_IIIA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Highcom_Striker_ACHHC_IIIA.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Pistol_PM_t" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Pistol_PM_t.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Armor_IOTV_Gen4_high_mobility" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_IOTV_Gen4_high_mobility.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Armored_ANA_Tactical_M2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_ANA_Tactical_M2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_SubMachineGun_P90" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SubMachineGun_P90.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_DT_MDR_556" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_DT_MDR_556.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Armor_PACA_Soft_Armor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_PACA_Soft_Armor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_AKS-74U" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_AKS-74U.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_LBT-2670_Slim_Field_Med" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_LBT-2670_Slim_Field_Med.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_Camelback_Tri-Zip" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_Camelback_Tri-Zip.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Pistol_TT" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Pistol_TT.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Wartech_MK3_TV-104" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Wartech_MK3_TV-104.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_LK_3F_Transfer_tourist" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_LK_3F_Transfer_tourist.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Map_Woods" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Map_Woods.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Jack-o-lantern_pumpkin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Jack-o-lantern_pumpkin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Armor_6B43_Zabralo-Sh_6A_Fort" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_6B43_Zabralo-Sh_6A_Fort.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_6SH118_Raid" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_6SH118_Raid.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Cowboy_Hat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Cowboy_Hat.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Tactical_Fleece_hat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Tactical_Fleece_hat.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_Duffle_bag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_Duffle_bag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Armor_LBT_6094A_Slick" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_LBT_6094A_Slick.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Tac-Kek_Fast_MT_Helmet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Tac-Kek_Fast_MT_Helmet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_Vepr_KM_VPO-136" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_Vepr_KM_VPO-136.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_Eberlestock_F4_Terminator" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_Eberlestock_F4_Terminator.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Armored_Crye_Precission_AVS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_Crye_Precission_AVS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Armored_Ars_Arma_CPC_MOD_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_Ars_Arma_CPC_MOD_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Wartech_TV-109_TV-106" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Wartech_TV-109_TV-106.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_TX-15_DML" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_TX-15_DML.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_SA-58" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_SA-58.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Miltec_Panama" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Miltec_Panama.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_SS0_Attack_2_Raid" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_SS0_Attack_2_Raid.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_USEC_Baseball_Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_USEC_Baseball_Black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_LBT-8005A_Day_pack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_LBT-8005A_Day_pack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Airframe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Airframe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Pistol_Glock_18C" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Pistol_Glock_18C.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Map_TheLab" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Map_TheLab.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Pistol_M45A1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Pistol_M45A1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Map_Factory" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Map_Factory.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_PSH-97_Djeta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_PSH-97_Djeta.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_AK-105" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_AK-105.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Armored_ANA_Tactical_M1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_ANA_Tactical_M1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_SSh-68" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_SSh-68.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_ADAR_2-15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_ADAR_2-15.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_SniperRifle_Mosin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SniperRifle_Mosin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Armor_FORT_Defender-2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_FORT_Defender-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Pistol_M9A3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Pistol_M9A3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Armor_6B13_M_Killa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_6B13_M_Killa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_BlackRock" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_BlackRock.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_Tactical_sling" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_Tactical_sling.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_BNTI_LSHZ-2DTM" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_BNTI_LSHZ-2DTM.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Pistol_APB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Pistol_APB.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_AK-102" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_AK-102.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Soft_tank_crew_helmet_TSH-4M-L" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Soft_tank_crew_helmet_TSH-4M-L.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_Pilgrim_tourist" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_Pilgrim_tourist.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Shotgun_KS-23M" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Shotgun_KS-23M.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_AKS-74N" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_AKS-74N.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_Scav_Backpack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_Scav_Backpack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Armor_BNTI_Kirasa-N" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_BNTI_Kirasa-N.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Splav_Tarzan_M22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Splav_Tarzan_M22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_SniperRifle_SV-98" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SniperRifle_SV-98.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_6B47_Ratnik-BSh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_6B47_Ratnik-BSh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_HK_416A5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_HK_416A5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_SniperRifle_T-5000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SniperRifle_T-5000.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_SubMachineGun_MPX" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SubMachineGun_MPX.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Blackhawk_Commando" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Blackhawk_Commando.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Armored_511_TacTec" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_511_TacTec.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_SubMachineGun_PP-91-01_Kedr-B" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SubMachineGun_PP-91-01_Kedr-B.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Galvion_Caiman" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Galvion_Caiman.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Pistol_M1911A1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Pistol_M1911A1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Pistol_Glock_17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Pistol_Glock_17.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Bandana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Bandana.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_Mystery_Ranch_Blackjack_50" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_Mystery_Ranch_Blackjack_50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_SniperRifle_M700" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SniperRifle_M700.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_Vepr_AKM_VPO-209" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_Vepr_AKM_VPO-209.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Armor_BNTI_Korund-VM" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_BNTI_Korund-VM.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_SubMachineGun_MP5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SubMachineGun_MP5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_Wartech_Berkut_VV-102" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_Wartech_Berkut_VV-102.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Triton_M43-A" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Triton_M43-A.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_SubMachineGun_MP9-N" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SubMachineGun_MP9-N.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Pistol_SR-1MP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Pistol_SR-1MP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Belt-A_Belt-B" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Belt-A_Belt-B.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_MSA_Gallet_TC_800" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_MSA_Gallet_TC_800.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Direct_Action_Thunderbolt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Direct_Action_Thunderbolt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_SHPM_Firefighter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_SHPM_Firefighter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_Oakley_Mechanism" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_Oakley_Mechanism.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_LZSh_light" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_LZSh_light.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_Flyye_MBSS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_Flyye_MBSS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Shotgun_MP-153" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Shotgun_MP-153.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_AKMSN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_AKMSN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_SubMachineGun_MP7A1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SubMachineGun_MP7A1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Altyn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Altyn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_SniperRifle_VOP-215" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SniperRifle_VOP-215.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_DMR_RSASS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_DMR_RSASS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_AK-101" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_AK-101.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_LBT-1961A_Load_Bearing" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_LBT-1961A_Load_Bearing.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_AKS-74UB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_AKS-74UB.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Army_cap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Army_cap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_Eberlestock_F5_Switchable" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_Eberlestock_F5_Switchable.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Map_Reserve" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Map_Reserve.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Beanie" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Beanie.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_AK-74M" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_AK-74M.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_SubMachineGun_MP5K-N" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SubMachineGun_MP5K-N.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_M4A1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_M4A1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_SOE_Micro_rig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_SOE_Micro_rig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Armasight_NVG_mask" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Armasight_NVG_mask.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Pistol_APS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Pistol_APS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Map_Interchange" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Map_Interchange.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Wilcox_Skull_Lock_head_mount" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Wilcox_Skull_Lock_head_mount.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Shotgun_M870" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Shotgun_M870.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Armored_Ars_Arma_A18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_Ars_Arma_A18.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_AKMN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_AKMN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Armor_BNTI_Gzhel-K" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_BNTI_Gzhel-K.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Ops_Core_Fast_MT" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Ops_Core_Fast_MT.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Shotgun_TOZ-106" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Shotgun_TOZ-106.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Armor_MF-UNTAR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_MF-UNTAR.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_VKBO_Army_bag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_VKBO_Army_bag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Kolpak-1S" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Kolpak-1S.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Armor_Zhuk-6a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_Zhuk-6a.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Door_Kicker" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Door_Kicker.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_AK-103" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_AK-103.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_UNTAR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_UNTAR.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_AS_VAL" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_AS_VAL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_LightMachineGun_RPK-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_LightMachineGun_RPK-16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_SSSh-95_Sfera-S" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_SSSh-95_Sfera-S.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Pistol_PM" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Pistol_PM.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_SniperRifle_DVL-10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SniperRifle_DVL-10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Armor_Module-3M" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_Module-3M.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_BEAR_Baseball_Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_BEAR_Baseball_Black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Armor_IOTV_Gen4_assault" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_IOTV_Gen4_assault.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Kotton_Beanie" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Kotton_Beanie.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_SubMachineGun_PP-9_Klin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SubMachineGun_PP-9_Klin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Pistol_PB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Pistol_PB.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Armor_6B13-assault" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_6B13-assault.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_DT_MDR_762" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_DT_MDR_762.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultCarbine_OP-SKS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultCarbine_OP-SKS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Ushanka_ear-flap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Ushanka_ear-flap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_SubMachineGun_MP7A2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SubMachineGun_MP7A2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_AK-74N" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_AK-74N.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Beret_blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Beret_blue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Armor_6B2_armor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_6B2_armor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_MSA_ACH_TC-2002" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_MSA_ACH_TC-2002.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_Sanitar_bag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_Sanitar_bag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Shotgun_590A1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Shotgun_590A1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Armor_FORT_Redut-M" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_FORT_Redut-M.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_SniperRifle_Mosin_inf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SniperRifle_Mosin_inf.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Haley_Strategic_D3CRX" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Haley_Strategic_D3CRX.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_SubMachineGun_PPSH-41" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SubMachineGun_PPSH-41.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_SubMachineGun_Saiga-9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_SubMachineGun_Saiga-9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Shotgun_Saiga-12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Shotgun_Saiga-12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Armor_Zhuk-3_Press_Armor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_Zhuk-3_Press_Armor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Armor_IOTV_Gen4_full" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Armor_IOTV_Gen4_full.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_USEC_Baseball" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_USEC_Baseball.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rig_Armored_6B3TM-01M" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rig_Armored_6B3TM-01M.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_AssaultRifle_AK-74" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_AssaultRifle_AK-74.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backpack_Ana_Beta_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backpack_Ana_Beta_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_Pompon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_Pompon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headwear_ZSh1-2M" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Headwear_ZSh1-2M.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Info_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Info_logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Weapon_Pistol_P226R" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Weapon_Pistol_P226R.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

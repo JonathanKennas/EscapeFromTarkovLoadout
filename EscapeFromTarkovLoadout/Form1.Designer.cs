@@ -35,7 +35,7 @@
             this.pBoxRig = new System.Windows.Forms.PictureBox();
             this.pBoxBackpack = new System.Windows.Forms.PictureBox();
             this.pBoxHeadwear = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.pBoxArmor = new System.Windows.Forms.PictureBox();
             this.pBoxWeapon_Pistol = new System.Windows.Forms.PictureBox();
             this.pBoxWeapon = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxMap)).BeginInit();
@@ -43,7 +43,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pBoxRig)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxBackpack)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxHeadwear)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pBoxArmor)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxWeapon_Pistol)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxWeapon)).BeginInit();
             this.SuspendLayout();
@@ -117,14 +117,14 @@
             this.pBoxHeadwear.TabIndex = 7;
             this.pBoxHeadwear.TabStop = false;
             // 
-            // pictureBox4
+            // pBoxArmor
             // 
-            this.pictureBox4.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox4.Location = new System.Drawing.Point(241, 254);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(129, 129);
-            this.pictureBox4.TabIndex = 8;
-            this.pictureBox4.TabStop = false;
+            this.pBoxArmor.BackColor = System.Drawing.Color.Transparent;
+            this.pBoxArmor.Location = new System.Drawing.Point(241, 254);
+            this.pBoxArmor.Name = "pBoxArmor";
+            this.pBoxArmor.Size = new System.Drawing.Size(129, 129);
+            this.pBoxArmor.TabIndex = 8;
+            this.pBoxArmor.TabStop = false;
             // 
             // pBoxWeapon_Pistol
             // 
@@ -154,7 +154,7 @@
             this.ClientSize = new System.Drawing.Size(1171, 729);
             this.Controls.Add(this.pBoxWeapon);
             this.Controls.Add(this.pBoxWeapon_Pistol);
-            this.Controls.Add(this.pictureBox4);
+            this.Controls.Add(this.pBoxArmor);
             this.Controls.Add(this.pBoxHeadwear);
             this.Controls.Add(this.pBoxBackpack);
             this.Controls.Add(this.pBoxRig);
@@ -171,7 +171,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pBoxRig)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxBackpack)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxHeadwear)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pBoxArmor)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxWeapon_Pistol)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxWeapon)).EndInit();
             this.ResumeLayout(false);
@@ -187,7 +187,7 @@
         private System.Windows.Forms.PictureBox pBoxRig;
         private System.Windows.Forms.PictureBox pBoxBackpack;
         private System.Windows.Forms.PictureBox pBoxHeadwear;
-        private System.Windows.Forms.PictureBox pictureBox4;
+        private System.Windows.Forms.PictureBox pBoxArmor;
         private System.Windows.Forms.PictureBox pBoxWeapon_Pistol;
         private System.Windows.Forms.PictureBox pBoxWeapon;
     }
