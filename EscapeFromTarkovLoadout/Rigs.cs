@@ -12,17 +12,18 @@ namespace EscapeFromTarkovLoadout
     {
         // 10 armored and 16 unarmored, total 26, rigs in patch 0.12.8.97.67
         // https://escapefromtarkov.gamepedia.com/Chest_rigs#Armored
+        // 1 added with value null, for unarmored
 
         // IMPORTANT! When adding a new rig, remember to add it to control in Armor-class
 
         // Needs to be public for usage from From1, control if the rig is compatible with armor or not
         public int rigNumber; // Local varibale for storing the random generaten rig number
 
-        // Generates random number between 1-26, there are 26 diffrent rigs
+        // Generates random number between 1-27, there are 26 diffrent rigs and 1 for null
         public int RandomRig()
         {
             Random rnd = new Random();
-            int rig = rnd.Next(1, 27); // Generates a random number between 1-26
+            int rig = rnd.Next(1, 28);  // Uses last number, therefore it's 28
             return rig;
         }
 
@@ -148,6 +149,8 @@ namespace EscapeFromTarkovLoadout
                 rigImage = Resources.Rig_Belt_A_Belt_B;
             }
             // Unarmored rigs END
+
+            // If the generated number doesn't exist withing i "if" statment, the image sets to null
             else rigImage = null;
             return rigImage;
         }

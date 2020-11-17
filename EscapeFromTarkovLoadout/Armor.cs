@@ -12,6 +12,7 @@ namespace EscapeFromTarkovLoadout
     {
         // 22 bodyarmor in patch 0.12.8.97.67
         // https://escapefromtarkov.gamepedia.com/Armor_vests
+        // 1 added with value null
 
         int armorNumber; // Local varibale for storing the random generaten armor number
         int rigNumber; // Local variable for storing the random generated number from rigs
@@ -23,11 +24,11 @@ namespace EscapeFromTarkovLoadout
             rigNumber = rigNr;
         }
 
-        // Generates random number between 1-22, there are 22 bifrent armors
+        // Generates random number between 1-23, there are 22 bifrent armors and 1 for null
         public int RandomArmor()
         {
             Random rnd = new Random();
-            int armor = rnd.Next(1, 23);  // Uses last number, therefore it's 23
+            int armor = rnd.Next(1, 24);  // Uses last number, therefore it's 24
             return armor;
         }
 
@@ -120,7 +121,7 @@ namespace EscapeFromTarkovLoadout
                 }
                 else if (armor == 19) // FORT Redut-T5 body armor
                 {
-                    armorImage = null;
+                    armorImage = null; // Add image
                 }
                 else if (armor == 20) // LBT 6094A Slick Plate Carrier
                 {
@@ -134,9 +135,11 @@ namespace EscapeFromTarkovLoadout
                 {
                     armorImage = Resources.Armor_6B43_Zabralo_Sh_6A_Fort;
                 }
+                // If the generated number doesn't exist withing i "if" statment, the image sets to null
                 else armorImage = null;
                 return armorImage;
             }
+            // If the generated number cannot be combined with a armored rig the image is set to null
             armorImage = null;
             return armorImage;
         }

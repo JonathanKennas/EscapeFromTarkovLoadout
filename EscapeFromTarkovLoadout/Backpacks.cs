@@ -12,14 +12,15 @@ namespace EscapeFromTarkovLoadout
     {
         // 21 backpacks in patch 0.12.8.97.67
         // https://escapefromtarkov.gamepedia.com/Backpacks
+        // 1 added with value null
 
         int backpackNumber; // Local varibale for storing the random generaten backpack number
 
-        // Generates random number between 1-21, there are 21 bifrent backpacks
+        // Generates random number between 1-22, there are 21 bifrent backpacks and 1 for null
         public int RandomBackpack()
         {
             Random rnd = new Random();
-            int backpack = rnd.Next(1, 22); // Uses last number, therefore it's 22
+            int backpack = rnd.Next(1, 23); // Uses last number, therefore it's 23
             return backpack;
         }
 
@@ -120,10 +121,8 @@ namespace EscapeFromTarkovLoadout
             {
                 backpackImage = Resources.Backpack_Tactical_sling;
             }
-            else
-            {
-                backpackImage = null;
-            }
+            // If the generated number doesn't exist withing i "if" statment, the image sets to null
+            else backpackImage = null;          
             return backpackImage;
         }
     }

@@ -12,14 +12,15 @@ namespace EscapeFromTarkovLoadout
     {
         // 55 headwear in patch 0.12.8.97.67
         // https://escapefromtarkov.gamepedia.com/Headwear
+        // 1 added with value null
 
         int headwearNumber; // Local varibale for storing the random generaten headwear number
 
-        // Generates random number between 1-55, there are 55 bifrent headwear
+        // Generates random number between 1-56, there are 55 bifrent headwear and 1 for null
         public int RandomHeadwear()
         {
             Random rnd = new Random();
-            int headwear = rnd.Next(1, 56); // Uses last number, therefore it's 56
+            int headwear = rnd.Next(1, 57); // Uses last number, therefore it's 57
             return headwear;
         }
 
@@ -158,7 +159,7 @@ namespace EscapeFromTarkovLoadout
             }
             else if (headwear == 30) // Rys-T helmet
             {
-                headwearImage = null;
+                headwearImage = null; // Add image
             }
             else if (headwear == 31) // Vulkan-5 (LShZ-5) heavy helmet
             {
@@ -201,11 +202,11 @@ namespace EscapeFromTarkovLoadout
             }
             else if (headwear == 40) // Ded Moroz hat
             {
-                headwearImage = null;
+                headwearImage = null; // Add image
             }
             else if (headwear == 41) // Santa's hat
             {
-                headwearImage = null;
+                headwearImage = null; // Add image
             }
             else if (headwear == 42) // Police cap
             {
@@ -264,6 +265,8 @@ namespace EscapeFromTarkovLoadout
                 headwearImage = Resources.Headwear_Beret_blue;
             }
             // Vanity END
+
+            // If the generated number doesn't exist withing i "if" statment, the image sets to null
             else headwearImage = null;
             return headwearImage;
         }
