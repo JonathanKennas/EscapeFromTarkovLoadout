@@ -38,6 +38,7 @@
             this.pBoxArmor = new System.Windows.Forms.PictureBox();
             this.pBoxWeapon_Pistol = new System.Windows.Forms.PictureBox();
             this.pBoxWeapon = new System.Windows.Forms.PictureBox();
+            this.pBoxGetReady = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxMap)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxInfo)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxRig)).BeginInit();
@@ -46,16 +47,18 @@
             ((System.ComponentModel.ISupportInitialize)(this.pBoxArmor)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxWeapon_Pistol)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxWeapon)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pBoxGetReady)).BeginInit();
             this.SuspendLayout();
             // 
             // btnCreateLoadout
             // 
-            this.btnCreateLoadout.Location = new System.Drawing.Point(436, 553);
+            this.btnCreateLoadout.BackColor = System.Drawing.Color.Transparent;
+            this.btnCreateLoadout.BackgroundImage = global::EscapeFromTarkovLoadout.Properties.Resources.EscapeFromTarkovBackgroundGetReady;
+            this.btnCreateLoadout.Location = new System.Drawing.Point(280, 558);
             this.btnCreateLoadout.Name = "btnCreateLoadout";
-            this.btnCreateLoadout.Size = new System.Drawing.Size(140, 153);
+            this.btnCreateLoadout.Size = new System.Drawing.Size(129, 139);
             this.btnCreateLoadout.TabIndex = 1;
-            this.btnCreateLoadout.Text = "Create Loadout";
-            this.btnCreateLoadout.UseVisualStyleBackColor = true;
+            this.btnCreateLoadout.UseVisualStyleBackColor = false;
             this.btnCreateLoadout.Click += new System.EventHandler(this.btnCreateLoadout_Click);
             // 
             // pBoxMap
@@ -93,7 +96,7 @@
             // pBoxRig
             // 
             this.pBoxRig.BackColor = System.Drawing.Color.Transparent;
-            this.pBoxRig.Location = new System.Drawing.Point(653, 51);
+            this.pBoxRig.Location = new System.Drawing.Point(653, 54);
             this.pBoxRig.Name = "pBoxRig";
             this.pBoxRig.Size = new System.Drawing.Size(129, 129);
             this.pBoxRig.TabIndex = 5;
@@ -111,7 +114,7 @@
             // pBoxHeadwear
             // 
             this.pBoxHeadwear.BackColor = System.Drawing.Color.Transparent;
-            this.pBoxHeadwear.Location = new System.Drawing.Point(241, 92);
+            this.pBoxHeadwear.Location = new System.Drawing.Point(241, 95);
             this.pBoxHeadwear.Name = "pBoxHeadwear";
             this.pBoxHeadwear.Size = new System.Drawing.Size(129, 129);
             this.pBoxHeadwear.TabIndex = 7;
@@ -120,7 +123,7 @@
             // pBoxArmor
             // 
             this.pBoxArmor.BackColor = System.Drawing.Color.Transparent;
-            this.pBoxArmor.Location = new System.Drawing.Point(241, 254);
+            this.pBoxArmor.Location = new System.Drawing.Point(241, 255);
             this.pBoxArmor.Name = "pBoxArmor";
             this.pBoxArmor.Size = new System.Drawing.Size(129, 129);
             this.pBoxArmor.TabIndex = 8;
@@ -129,7 +132,7 @@
             // pBoxWeapon_Pistol
             // 
             this.pBoxWeapon_Pistol.BackColor = System.Drawing.Color.Transparent;
-            this.pBoxWeapon_Pistol.Location = new System.Drawing.Point(436, 406);
+            this.pBoxWeapon_Pistol.Location = new System.Drawing.Point(436, 407);
             this.pBoxWeapon_Pistol.Name = "pBoxWeapon_Pistol";
             this.pBoxWeapon_Pistol.Size = new System.Drawing.Size(129, 129);
             this.pBoxWeapon_Pistol.TabIndex = 9;
@@ -138,11 +141,22 @@
             // pBoxWeapon
             // 
             this.pBoxWeapon.BackColor = System.Drawing.Color.Transparent;
-            this.pBoxWeapon.Location = new System.Drawing.Point(52, 406);
+            this.pBoxWeapon.Location = new System.Drawing.Point(52, 407);
             this.pBoxWeapon.Name = "pBoxWeapon";
             this.pBoxWeapon.Size = new System.Drawing.Size(318, 129);
             this.pBoxWeapon.TabIndex = 10;
             this.pBoxWeapon.TabStop = false;
+            // 
+            // pBoxGetReady
+            // 
+            this.pBoxGetReady.BackColor = System.Drawing.Color.Transparent;
+            this.pBoxGetReady.BackgroundImage = global::EscapeFromTarkovLoadout.Properties.Resources.EscapeFromTarkovBackgroundGetReady;
+            this.pBoxGetReady.Location = new System.Drawing.Point(436, 558);
+            this.pBoxGetReady.Name = "pBoxGetReady";
+            this.pBoxGetReady.Size = new System.Drawing.Size(129, 139);
+            this.pBoxGetReady.TabIndex = 11;
+            this.pBoxGetReady.TabStop = false;
+            this.pBoxGetReady.Click += new System.EventHandler(this.pBoxGetReady_Click);
             // 
             // Form1
             // 
@@ -150,8 +164,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.BackgroundImage = global::EscapeFromTarkovLoadout.Properties.Resources.EscapeFromTarkovBackgroundCharacter;
-            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1171, 729);
+            this.Controls.Add(this.pBoxGetReady);
             this.Controls.Add(this.pBoxWeapon);
             this.Controls.Add(this.pBoxWeapon_Pistol);
             this.Controls.Add(this.pBoxArmor);
@@ -174,6 +188,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pBoxArmor)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxWeapon_Pistol)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxWeapon)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pBoxGetReady)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -190,6 +205,7 @@
         private System.Windows.Forms.PictureBox pBoxArmor;
         private System.Windows.Forms.PictureBox pBoxWeapon_Pistol;
         private System.Windows.Forms.PictureBox pBoxWeapon;
+        private System.Windows.Forms.PictureBox pBoxGetReady;
     }
 }
 

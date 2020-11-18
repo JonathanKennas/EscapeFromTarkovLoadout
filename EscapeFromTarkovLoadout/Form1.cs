@@ -89,5 +89,42 @@ namespace EscapeFromTarkovLoadout
                 pBoxWeapon_Pistol.BackgroundImage = null;
             }
         }
+
+        private void pBoxGetReady_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                // Getting weapon
+                weapons.GetRandomWeapon();
+                GetWeaponType();
+
+                // Getting headwear
+                headwear.GetRandomHeadwear();
+                pBoxHeadwear.BackgroundImage = headwear.GetHeadwearImage();
+
+                // Getting rig
+                rigs.GetRandomRig();
+                pBoxRig.BackgroundImage = rigs.GetRigImage();
+
+                // Getting the generated rig-number and passes it to armor for control
+                armor.GetRigNumber(rigs.rigNumber);
+
+                // Getting armor
+                armor.GetRandomArmor();
+                pBoxArmor.BackgroundImage = armor.GetArmorImage();
+
+                // Getting backpack
+                backpacks.GetRandomBackpack();
+                pBoxBackpack.BackgroundImage = backpacks.GetBackpackImage();
+
+                // Getting map
+                maps.GetRandomMap();
+                pBoxMap.BackgroundImage = maps.GetMapImage();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }      
     }
 }

@@ -763,5 +763,8 @@
   <ItemGroup>
     <None Include="Resources\Weapon_Pistol_P226R.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EscapeFromTarkovBackgroundGetReady.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
