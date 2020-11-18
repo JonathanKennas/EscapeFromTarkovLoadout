@@ -31,6 +31,9 @@ namespace EscapeFromTarkovLoadout
         // - Click on "Publish Now"
         // Link: https://www.c-sharpcorner.com/blogs/publishing-windows-form-in-desktop
 
+        // Font for Escape From Tarkov:
+        // - Bender Regular
+        // - Link to generate text: https://www.1001fonts.com/bender-font.html
 
         ////When adding (remember to add the ammount to Information.cs aswell):
         // Weapons:

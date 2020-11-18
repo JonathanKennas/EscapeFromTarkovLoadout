@@ -19,7 +19,7 @@ namespace EscapeFromTarkovLoadout
         {
             string text;
             text = "This is a free loadout generator for Escape From Tarkov.\n \n" +
-                "All the gear that is added are currently in patch 12.8.97.67\n \n" +
+                "All the gear that is added are currently in patch 12.8\n \n" +
                 "It generates weapons, armor, headwear, rigs, backpacks and maps \nwithin the combinations that works in the game. \n\n" +
                 "This loadout generator contains:\n " +
                 "83 weapons\n " +
