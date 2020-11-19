@@ -37,8 +37,6 @@
             this.linkLblBackpacks = new System.Windows.Forms.LinkLabel();
             this.linkLblMaps = new System.Windows.Forms.LinkLabel();
             this.lblEnjoy = new System.Windows.Forms.Label();
-            this.lblPayPal = new System.Windows.Forms.Label();
-            this.linkLblLinkPayPal = new System.Windows.Forms.LinkLabel();
             this.SuspendLayout();
             // 
             // lblInfo
@@ -152,30 +150,6 @@
             this.lblEnjoy.TabIndex = 8;
             this.lblEnjoy.Text = "Enjoy!";
             // 
-            // lblPayPal
-            // 
-            this.lblPayPal.AutoSize = true;
-            this.lblPayPal.BackColor = System.Drawing.Color.Transparent;
-            this.lblPayPal.Font = new System.Drawing.Font("Poor Richard", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPayPal.Location = new System.Drawing.Point(17, 558);
-            this.lblPayPal.Name = "lblPayPal";
-            this.lblPayPal.Size = new System.Drawing.Size(157, 16);
-            this.lblPayPal.TabIndex = 9;
-            this.lblPayPal.Text = "Liking this and want to donate?";
-            // 
-            // linkLblLinkPayPal
-            // 
-            this.linkLblLinkPayPal.AutoSize = true;
-            this.linkLblLinkPayPal.BackColor = System.Drawing.Color.Transparent;
-            this.linkLblLinkPayPal.Font = new System.Drawing.Font("Poor Richard", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.linkLblLinkPayPal.Location = new System.Drawing.Point(180, 558);
-            this.linkLblLinkPayPal.Name = "linkLblLinkPayPal";
-            this.linkLblLinkPayPal.Size = new System.Drawing.Size(42, 16);
-            this.linkLblLinkPayPal.TabIndex = 10;
-            this.linkLblLinkPayPal.TabStop = true;
-            this.linkLblLinkPayPal.Text = "PayPal";
-            this.linkLblLinkPayPal.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLblLinkPayPal_LinkClicked);
-            // 
             // FormInfo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -183,9 +157,7 @@
             this.BackColor = System.Drawing.SystemColors.Control;
             this.BackgroundImage = global::EscapeFromTarkovLoadout.Properties.Resources.EscapeFromTarkovBackgroundInfo;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(604, 581);
-            this.Controls.Add(this.linkLblLinkPayPal);
-            this.Controls.Add(this.lblPayPal);
+            this.ClientSize = new System.Drawing.Size(604, 573);
             this.Controls.Add(this.lblEnjoy);
             this.Controls.Add(this.linkLblMaps);
             this.Controls.Add(this.linkLblBackpacks);
@@ -214,7 +186,5 @@
         private System.Windows.Forms.LinkLabel linkLblBackpacks;
         private System.Windows.Forms.LinkLabel linkLblMaps;
         private System.Windows.Forms.Label lblEnjoy;
-        private System.Windows.Forms.Label lblPayPal;
-        private System.Windows.Forms.LinkLabel linkLblLinkPayPal;
     }
 }

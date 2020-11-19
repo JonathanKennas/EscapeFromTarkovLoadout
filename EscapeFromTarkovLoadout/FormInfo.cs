@@ -17,10 +17,6 @@ namespace EscapeFromTarkovLoadout
         {
             InitializeComponent();
             lblInfo.Text = info.GetTextForInfo();
-
-            // Text and link for donation to paypal
-            linkLblLinkPayPal.Hide();
-            lblPayPal.Hide();
         }
 
         private void linkLblWeapons_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
@@ -99,19 +95,6 @@ namespace EscapeFromTarkovLoadout
             {
                 MessageBox.Show("The link could not be opend...");
             }           
-        }
-
-        private void linkLblLinkPayPal_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
-        {
-            try
-            {
-                // Getting hyperlink with URL from Information.cs
-                info.VisitPayPalDonate();
-            }
-            catch
-            {
-                MessageBox.Show("The link could not be opend...");
-            }
         }
     }
 }

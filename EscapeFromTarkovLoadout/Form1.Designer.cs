@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnCreateLoadout = new System.Windows.Forms.Button();
             this.pBoxMap = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.pBoxInfo = new System.Windows.Forms.PictureBox();
@@ -49,17 +48,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pBoxWeapon)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxGetReady)).BeginInit();
             this.SuspendLayout();
-            // 
-            // btnCreateLoadout
-            // 
-            this.btnCreateLoadout.BackColor = System.Drawing.Color.Transparent;
-            this.btnCreateLoadout.BackgroundImage = global::EscapeFromTarkovLoadout.Properties.Resources.EscapeFromTarkovBackgroundGetReady;
-            this.btnCreateLoadout.Location = new System.Drawing.Point(280, 558);
-            this.btnCreateLoadout.Name = "btnCreateLoadout";
-            this.btnCreateLoadout.Size = new System.Drawing.Size(129, 139);
-            this.btnCreateLoadout.TabIndex = 1;
-            this.btnCreateLoadout.UseVisualStyleBackColor = false;
-            this.btnCreateLoadout.Click += new System.EventHandler(this.btnCreateLoadout_Click);
             // 
             // pBoxMap
             // 
@@ -175,7 +163,6 @@
             this.Controls.Add(this.pBoxInfo);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pBoxMap);
-            this.Controls.Add(this.btnCreateLoadout);
             this.DoubleBuffered = true;
             this.MaximizeBox = false;
             this.Name = "Form1";
@@ -195,7 +182,6 @@
         }
 
         #endregion
-        private System.Windows.Forms.Button btnCreateLoadout;
         private System.Windows.Forms.PictureBox pBoxMap;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.PictureBox pBoxInfo;
