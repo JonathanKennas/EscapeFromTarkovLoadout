@@ -159,7 +159,7 @@ namespace EscapeFromTarkovLoadout
             }
             else if (headwear == 30) // Rys-T helmet
             {
-                headwearImage = null; // Add image
+                headwearImage = Resources.Headwear_Rys_T;
             }
             else if (headwear == 31) // Vulkan-5 (LShZ-5) heavy helmet
             {

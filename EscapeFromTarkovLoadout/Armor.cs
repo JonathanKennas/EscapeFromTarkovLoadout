@@ -121,7 +121,7 @@ namespace EscapeFromTarkovLoadout
                 }
                 else if (armor == 19) // FORT Redut-T5 body armor
                 {
-                    armorImage = null; // Add image
+                    armorImage = Resources.Armor_Redut_T5;
                 }
                 else if (armor == 20) // LBT 6094A Slick Plate Carrier
                 {

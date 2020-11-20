@@ -253,6 +253,16 @@ namespace EscapeFromTarkovLoadout.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Armor_Redut_T5 {
+            get {
+                object obj = ResourceManager.GetObject("Armor_Redut-T5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Armor_Zhuk_3_Press_Armor {
             get {
                 object obj = ResourceManager.GetObject("Armor_Zhuk-3_Press_Armor", resourceCulture);
@@ -886,6 +896,16 @@ namespace EscapeFromTarkovLoadout.Properties {
         internal static System.Drawing.Bitmap Headwear_PSH_97_Djeta {
             get {
                 object obj = ResourceManager.GetObject("Headwear_PSH-97_Djeta", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Headwear_Rys_T {
+            get {
+                object obj = ResourceManager.GetObject("Headwear_Rys-T", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1756,6 +1776,16 @@ namespace EscapeFromTarkovLoadout.Properties {
         internal static System.Drawing.Bitmap Weapon_DMR_VSS {
             get {
                 object obj = ResourceManager.GetObject("Weapon_DMR_VSS", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Weapon_GranadeLauncher_GL_40 {
+            get {
+                object obj = ResourceManager.GetObject("Weapon_GranadeLauncher_GL-40", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

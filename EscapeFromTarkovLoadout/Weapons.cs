@@ -326,7 +326,7 @@ namespace EscapeFromTarkovLoadout
             // Grenade launchers START
             else if (weapon == 67) // FN GL40
             {
-                weaponImage = null;
+                weaponImage = Resources.Weapon_GranadeLauncher_GL_40;
             }
             // Grenade launchers END
 

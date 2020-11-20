@@ -778,5 +778,14 @@
   <ItemGroup>
     <None Include="Resources\EscapeFromTarkovBackgroundExit3.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Armor_Redut-T5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headwear_Rys-T.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weapon_GranadeLauncher_GL-40.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
