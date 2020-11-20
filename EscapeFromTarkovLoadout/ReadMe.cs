@@ -35,6 +35,14 @@ namespace EscapeFromTarkovLoadout
         // - Bender Regular
         // - Link to generate text: https://www.1001fonts.com/bender-font.html
 
+        // Logomaker:
+        // - https://logomakr.com/
+
+        // Make upper menu dissapear:
+        // - Mark application (design)
+        // - Properties
+        // - Choose FormBorderStyle (standard is sizeable)
+
         ////When adding (remember to add the ammount to Information.cs aswell):
         // Weapons:
         // - Remember to add image

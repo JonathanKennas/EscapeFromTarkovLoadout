@@ -167,6 +167,7 @@
             this.Controls.Add(this.lblTitleForLinks);
             this.Controls.Add(this.linkLblWeapons);
             this.Controls.Add(this.lblInfo);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.MaximizeBox = false;
             this.Name = "FormInfo";
             this.Text = "Information";

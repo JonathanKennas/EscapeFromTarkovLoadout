@@ -89,6 +89,5 @@ namespace EscapeFromTarkovLoadout
                 pBoxWeapon_Pistol.BackgroundImage = null;
             }
         }
-
     }
 }
