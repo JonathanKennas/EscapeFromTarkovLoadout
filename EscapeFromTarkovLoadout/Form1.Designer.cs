@@ -167,7 +167,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "Escape From Tarkov Loadout";
+            this.Text = "Escape From Tarkov Loadout Generator";
             ((System.ComponentModel.ISupportInitialize)(this.pBoxMap)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxInfo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxRig)).EndInit();
