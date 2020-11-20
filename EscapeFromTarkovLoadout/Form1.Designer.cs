@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.pBoxMap = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.pBoxInfo = new System.Windows.Forms.PictureBox();
@@ -38,6 +39,7 @@
             this.pBoxWeapon_Pistol = new System.Windows.Forms.PictureBox();
             this.pBoxWeapon = new System.Windows.Forms.PictureBox();
             this.pBoxGetReady = new System.Windows.Forms.PictureBox();
+            this.pBoxExit = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxMap)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxInfo)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxRig)).BeginInit();
@@ -47,6 +49,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pBoxWeapon_Pistol)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxWeapon)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxGetReady)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pBoxExit)).BeginInit();
             this.SuspendLayout();
             // 
             // pBoxMap
@@ -74,7 +77,7 @@
             // 
             this.pBoxInfo.BackColor = System.Drawing.Color.Transparent;
             this.pBoxInfo.BackgroundImage = global::EscapeFromTarkovLoadout.Properties.Resources.Info_logo;
-            this.pBoxInfo.Location = new System.Drawing.Point(1145, 1);
+            this.pBoxInfo.Location = new System.Drawing.Point(1114, 0);
             this.pBoxInfo.Name = "pBoxInfo";
             this.pBoxInfo.Size = new System.Drawing.Size(25, 25);
             this.pBoxInfo.TabIndex = 4;
@@ -146,6 +149,17 @@
             this.pBoxGetReady.TabStop = false;
             this.pBoxGetReady.Click += new System.EventHandler(this.pBoxGetReady_Click);
             // 
+            // pBoxExit
+            // 
+            this.pBoxExit.BackColor = System.Drawing.Color.Transparent;
+            this.pBoxExit.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pBoxExit.BackgroundImage")));
+            this.pBoxExit.Location = new System.Drawing.Point(1145, 0);
+            this.pBoxExit.Name = "pBoxExit";
+            this.pBoxExit.Size = new System.Drawing.Size(25, 25);
+            this.pBoxExit.TabIndex = 12;
+            this.pBoxExit.TabStop = false;
+            this.pBoxExit.Click += new System.EventHandler(this.pBoxExit_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -153,6 +167,7 @@
             this.BackColor = System.Drawing.SystemColors.Control;
             this.BackgroundImage = global::EscapeFromTarkovLoadout.Properties.Resources.EscapeFromTarkovBackgroundCharacter;
             this.ClientSize = new System.Drawing.Size(1171, 729);
+            this.Controls.Add(this.pBoxExit);
             this.Controls.Add(this.pBoxGetReady);
             this.Controls.Add(this.pBoxWeapon);
             this.Controls.Add(this.pBoxWeapon_Pistol);
@@ -164,7 +179,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pBoxMap);
             this.DoubleBuffered = true;
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Escape From Tarkov Loadout Generator";
@@ -177,6 +192,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pBoxWeapon_Pistol)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxWeapon)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBoxGetReady)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pBoxExit)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -193,6 +209,7 @@
         private System.Windows.Forms.PictureBox pBoxWeapon_Pistol;
         private System.Windows.Forms.PictureBox pBoxWeapon;
         private System.Windows.Forms.PictureBox pBoxGetReady;
+        private System.Windows.Forms.PictureBox pBoxExit;
     }
 }
 

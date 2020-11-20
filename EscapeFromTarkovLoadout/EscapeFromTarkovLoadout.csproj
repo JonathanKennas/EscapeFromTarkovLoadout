@@ -769,5 +769,14 @@
   <ItemGroup>
     <None Include="Resources\EscapeFromTarkovBackgroundExit.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EscapeFromTarkovBackgroundExit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EscapeFromTarkovBackgroundExit2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EscapeFromTarkovBackgroundExit3.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

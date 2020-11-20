@@ -37,6 +37,8 @@
             this.linkLblBackpacks = new System.Windows.Forms.LinkLabel();
             this.linkLblMaps = new System.Windows.Forms.LinkLabel();
             this.lblEnjoy = new System.Windows.Forms.Label();
+            this.pBoxExit = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pBoxExit)).BeginInit();
             this.SuspendLayout();
             // 
             // lblInfo
@@ -150,6 +152,17 @@
             this.lblEnjoy.TabIndex = 8;
             this.lblEnjoy.Text = "Enjoy!";
             // 
+            // pBoxExit
+            // 
+            this.pBoxExit.BackColor = System.Drawing.Color.Transparent;
+            this.pBoxExit.BackgroundImage = global::EscapeFromTarkovLoadout.Properties.Resources.EscapeFromTarkovBackgroundExit1;
+            this.pBoxExit.Location = new System.Drawing.Point(579, 0);
+            this.pBoxExit.Name = "pBoxExit";
+            this.pBoxExit.Size = new System.Drawing.Size(25, 25);
+            this.pBoxExit.TabIndex = 9;
+            this.pBoxExit.TabStop = false;
+            this.pBoxExit.Click += new System.EventHandler(this.pBoxExit_Click);
+            // 
             // FormInfo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -158,6 +171,7 @@
             this.BackgroundImage = global::EscapeFromTarkovLoadout.Properties.Resources.EscapeFromTarkovBackgroundInfo;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(604, 573);
+            this.Controls.Add(this.pBoxExit);
             this.Controls.Add(this.lblEnjoy);
             this.Controls.Add(this.linkLblMaps);
             this.Controls.Add(this.linkLblBackpacks);
@@ -167,10 +181,11 @@
             this.Controls.Add(this.lblTitleForLinks);
             this.Controls.Add(this.linkLblWeapons);
             this.Controls.Add(this.lblInfo);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
             this.Name = "FormInfo";
             this.Text = "Information";
+            ((System.ComponentModel.ISupportInitialize)(this.pBoxExit)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -187,5 +202,6 @@
         private System.Windows.Forms.LinkLabel linkLblBackpacks;
         private System.Windows.Forms.LinkLabel linkLblMaps;
         private System.Windows.Forms.Label lblEnjoy;
+        private System.Windows.Forms.PictureBox pBoxExit;
     }
 }

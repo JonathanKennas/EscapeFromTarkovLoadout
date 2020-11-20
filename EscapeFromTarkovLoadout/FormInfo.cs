@@ -18,6 +18,10 @@ namespace EscapeFromTarkovLoadout
             InitializeComponent();
             lblInfo.Text = info.GetTextForInfo();
         }
+        private void pBoxExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
 
         private void linkLblWeapons_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
@@ -95,6 +99,35 @@ namespace EscapeFromTarkovLoadout
             {
                 MessageBox.Show("The link could not be opend...");
             }           
+        }
+
+
+        // Allows the form to be moved when FormBorderStyle = none
+        // Link: https://stackoverflow.com/questions/1241812/how-to-move-a-windows-form-when-its-formborderstyle-property-is-set-to-none
+        protected override void WndProc(ref Message m)
+        {
+            /*
+            Constants in Windows API
+            0x84 = WM_NCHITTEST - Mouse Capture Test
+            0x1 = HTCLIENT - Application Client Area
+            0x2 = HTCAPTION - Application Title Bar
+
+            This function intercepts all the commands sent to the application. 
+            It checks to see of the message is a mouse click in the application. 
+            It passes the action to the base action by default. It reassigns 
+            the action to the title bar if it occured in the client area
+            to allow the drag and move behavior.
+            */
+            switch (m.Msg)
+            {
+                case 0x84:
+                    base.WndProc(ref m);
+                    if ((int)m.Result == 0x1)
+                        m.Result = (IntPtr)0x2;
+                    return;
+            }
+
+            base.WndProc(ref m);
         }
     }
 }
