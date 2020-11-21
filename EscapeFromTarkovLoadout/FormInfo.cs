@@ -17,10 +17,27 @@ namespace EscapeFromTarkovLoadout
         {
             InitializeComponent();
             lblInfo.Text = info.GetTextForInfo();
+
+            // Creating an event for entering and leaving the pictureboxes with the mouse
+            this.pBoxExit.MouseEnter += new System.EventHandler(this.pBoxExit_MouseEnter);
+            this.pBoxExit.MouseLeave += new System.EventHandler(this.pBoxExit_MouseLeave);
         }
         private void pBoxExit_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        // Changes the color of the picturebox Exit when entering it to red
+        private void pBoxExit_MouseEnter(object sender, EventArgs e)
+        {
+            // #CA0A0A is the color from "Get Ready!" Logo
+            this.pBoxExit.BackColor = ColorTranslator.FromHtml("#CA0A0A");
+        }
+
+        // Changes the color of the picturebox Exit when leaving it back to transparent
+        private void pBoxExit_MouseLeave(object sender, EventArgs e)
+        {
+            this.pBoxExit.BackColor = Color.Transparent;
         }
 
         private void linkLblWeapons_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)

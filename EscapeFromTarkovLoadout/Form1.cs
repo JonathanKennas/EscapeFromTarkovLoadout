@@ -23,6 +23,12 @@ namespace EscapeFromTarkovLoadout
         public Form1()
         {
             InitializeComponent();
+
+            // Creating an event for entering and leaving the pictureboxes with the mouse
+            this.pBoxExit.MouseEnter += new System.EventHandler(this.pBoxExit_MouseEnter);
+            this.pBoxExit.MouseLeave += new System.EventHandler(this.pBoxExit_MouseLeave);
+            this.pBoxInfo.MouseEnter += new System.EventHandler(this.pBoxInfo_MouseEnter);
+            this.pBoxInfo.MouseLeave += new System.EventHandler(this.pBoxInfo_MouseLeave);
         }
 
         private void pBoxGetReady_Click(object sender, EventArgs e)
@@ -60,13 +66,13 @@ namespace EscapeFromTarkovLoadout
             {
                 MessageBox.Show(ex.Message);
             }
-        }      
+        }
 
+        // Information about this application shown in a new form (FormInfo) when clicking at the "info" picture
         private void pBoxInfo_Click(object sender, EventArgs e)
         {
             try
             {
-                // Information about this application shown in a new form (FormInfo) when clicking at the "info" picture
                 forminfo.ShowDialog();
             }
             catch (Exception ex)
@@ -92,6 +98,31 @@ namespace EscapeFromTarkovLoadout
         private void pBoxExit_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        // Changes the color of the picturebox Exit when entering it to red
+        private void pBoxExit_MouseEnter(object sender, EventArgs e)
+        {
+            // #CA0A0A is the color from "Get Ready!" Logo
+            this.pBoxExit.BackColor = ColorTranslator.FromHtml("#CA0A0A");
+        }
+
+        // Changes the color of the picturebox Exit when leaving it back to transparent
+        private void pBoxExit_MouseLeave(object sender, EventArgs e)
+        {
+            this.pBoxExit.BackColor = Color.Transparent;
+        }
+
+        // Changes the color of the picturebox Info when entering it to white
+        private void pBoxInfo_MouseEnter(object sender, EventArgs e)
+        {
+            this.pBoxInfo.BackColor = Color.White;
+        }
+
+        // Changes the color of the picturebox Info when leaving it back to transparent
+        private void pBoxInfo_MouseLeave(object sender, EventArgs e)
+        {
+            this.pBoxInfo.BackColor = Color.Transparent;
         }
 
         // Allows the form to be moved when FormBorderStyle = none
