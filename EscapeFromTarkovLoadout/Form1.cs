@@ -116,7 +116,7 @@ namespace EscapeFromTarkovLoadout
         // Changes the color of the picturebox Info when entering it to white
         private void pBoxInfo_MouseEnter(object sender, EventArgs e)
         {
-            this.pBoxInfo.BackColor = Color.White;
+            this.pBoxInfo.BackColor = ColorTranslator.FromHtml("#b3b3b3");
         }
 
         // Changes the color of the picturebox Info when leaving it back to transparent
