@@ -143,7 +143,6 @@ namespace EscapeFromTarkovLoadout
                         m.Result = (IntPtr)0x2;
                     return;
             }
-
             base.WndProc(ref m);
         }
     }

@@ -27,6 +27,7 @@ namespace EscapeFromTarkovLoadout
         // Calling RandomBackpack and saved the number in local varibale in usage for image
         public void GetRandomBackpack()
         {
+            backpackNumber = 0;
             backpackNumber = RandomBackpack();
         }
 

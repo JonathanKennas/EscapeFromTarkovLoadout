@@ -26,6 +26,7 @@ namespace EscapeFromTarkovLoadout
         // Calling RandomMap and saved the number in local varibale in usage for image
         public void GetRandomMap()
         {
+            mapNumber = 0;
             mapNumber = RandomMap();
         }
 

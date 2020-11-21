@@ -30,6 +30,7 @@ namespace EscapeFromTarkovLoadout
         // Calling RandomRig and saved the number in local varibale in usage for image
         public void GetRandomRig()
         {
+            rigNumber = 0;
             rigNumber = RandomRig();
         }
 

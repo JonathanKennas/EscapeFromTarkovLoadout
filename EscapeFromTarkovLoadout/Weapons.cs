@@ -28,6 +28,7 @@ namespace EscapeFromTarkovLoadout
         // Calling RandomWeapon and saved the number in local varibale in usage for image
         public void GetRandomWeapon()
         {
+            weaponNumber = 0;
             weaponNumber = RandomWeapon();
         }
 

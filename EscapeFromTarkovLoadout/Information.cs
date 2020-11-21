@@ -8,13 +8,6 @@ namespace EscapeFromTarkovLoadout
 {
     public class Information
     {
-        //public string GetTitleForInfo()
-        //{
-        //    string text;
-        //    text = "Information";
-        //    return text;
-        //}
-
         public string GetTextForInfo()
         {
             string text;
@@ -24,7 +17,7 @@ namespace EscapeFromTarkovLoadout
                 "This loadout generator contains:\n " +
                 "83 weapons\n " +
                 "22 armors\n " +
-                "55 headwear\n " +
+                "55 headwear (Ded Moroz- and Santa's hat has no image yet)\n " +
                 "26 rigs (10 armored & 16 unarmored)\n " +
                 "21 backpacks\n " +
                 "7 maps\n\n" +
@@ -73,13 +66,6 @@ namespace EscapeFromTarkovLoadout
         {
             //Call the Process.Start method to open the default browser with a URL:
             System.Diagnostics.Process.Start("https://escapefromtarkov.gamepedia.com/Map_of_Tarkov");
-        }
-
-        // Link to PayPal for donations
-        public void VisitPayPalDonate()
-        {
-            // Add URL
-            System.Diagnostics.Process.Start("");
         }
     }
 }

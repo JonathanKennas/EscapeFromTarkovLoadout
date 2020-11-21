@@ -35,6 +35,7 @@ namespace EscapeFromTarkovLoadout
         // Calling RandomArmor and saved the number in local varibale in usage for image
         public void GetRandomArmor()
         {
+            armorNumber = 0;
             armorNumber = RandomArmor();
         }
 

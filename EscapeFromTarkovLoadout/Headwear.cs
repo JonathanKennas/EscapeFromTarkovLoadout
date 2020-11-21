@@ -27,6 +27,7 @@ namespace EscapeFromTarkovLoadout
         // Calling RandomHeadwear and saved the number in local varibale in usage for image
         public void GetRandomHeadwear()
         {
+            headwearNumber = 0;
             headwearNumber = RandomHeadwear();
         }
 
